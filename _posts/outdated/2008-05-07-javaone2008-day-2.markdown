@@ -1,0 +1,15 @@
+---
+layout: post
+title: JavaOne 2008 &ndash; Day 2 by Eric DeLabar
+metadesc: 
+class: post disclaimer
+changefreq: never
+priority: 0.4
+category: outdated
+---
+<h1>JavaOne 2008 &ndash; Day 2</h1>
+<p>The general session this morning was not quite the same as yesterday morning's, which I suppose is understandable, but it was still pretty informative.  Today Oracle showed off its developer tools, which are interesting, but being mainly <span class="caps">JSF</span>, not very appealing for my own&nbsp;use.</p>
+<p>My favorite session of the day had to be Groovy, the Red Pill: Metaprogramming — How to Blow the Mind of Developers on the Java Platform presented by <a href="http://www.davisworld.org/blojsom/blog/">Scott Davis</a>.  This session was <strong>incredible</strong>.  Scott speaks like a televangelist and by the end of the presentation seemed to have half the audience ready to stand, shout <span class="caps">AMEN</span>, and follow him as a new religious leader.  I now have absolutely no doubt in my mind that <a href="http://groovy.codehaus.org/">Groovy</a> is an amazing and powerful language and that I'm going to try my hardest to make it part of some project  I'm doing in the near&nbsp;future.</p>
+<p>My second favorite presentation was definately Creating a Compelling User Experience presented by <a href="http://galbraiths.org/blog/">Ben Galbraith</a>.  It wasn't anything groundbreaking or new for me, but it was a very well-done presentation on design for the typical Java engineer.  Ben made a variety of good points, including my personal favorite, pay attention to users goals but don't let them design&nbsp;software.</p>
+<p>Third runner-up for favorite goes to How to Implement Your Own OpenSocial Container on the Java Platform by <a href="http://www.chrisschalk.com/">Chris Schalk</a> and <a href="http://lindner.hi5.com/">Paul Lindner</a>.  This session basically covered <a href="http://incubator.apache.org/shindig/">Apache Shindig</a>, which I did not even know existed.  Also mentioned in the presentation were <a href="http://code.google.com/p/google-guice/">Guice</a> and <a href="http://www.ongwt.com/post/2007/10/19/Enunciate-:-Delivering-business-with-GWT-RPC-SOAP-REST-JSON">Enunciate</a>, which I will definitely be investigating&nbsp;further.</p>
+<p>Not much shwag today, and I didn't win anything from any of the drawings (despite wearing my <a href="http://www.springsource.com/web/guest/products/suite/applicationplatform">Swing Application Platform</a> shirt), but overall a good day.  Although if I can request anything from the <a href="http://java.sun.com/javaone/sf/index.jsp">JavaOne</a> gods, how about a little variety for lunch, or at least a different kind of pasta salad with the&nbsp;sandwiches!</p>

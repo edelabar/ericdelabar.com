@@ -1,0 +1,14 @@
+---
+layout: post
+title: JavaOne 2008 &ndash; Day 4 by Eric DeLabar
+metadesc: 
+class: post disclaimer
+changefreq: never
+priority: 0.4
+category: outdated
+---
+<h1>JavaOne 2008 &ndash; Day 4</h1>
+<p>Day four at JavaOne was a bit of a blur due to it's smaller population and shorter duration.  Add that to the fact that I caught a red-eye back home and didn't sleep all day on Saturday, and Friday and Saturday became one large day.  But I&nbsp;digress.</p>
+<p>Regretfully I left my notes at the office today, so check back tomorrow for the details on the sessions that belong in this paragraph.  But until&nbsp;then...</p>
+<p>The best part of Friday was the General Session demo of the <a href="http://www.livescribe.com/smartpen/index.html">Livescribe Pulse smartpen</a>.  The Pulse is a regular pen with an <span class="caps">IR</span> camera attached that scans a special kind of paper while you write on it.  The pen features accelerometers and what I would assume is a pressure sensor that allows it to tell when, how, and what you are writing.  It also records all sounds that are happening while you are writing, and can temporally associate the sounds to the written notes on the paper.  This can all then be transfered off of the Pulse onto a (Windows only for now) computer and even published to the web, complete with sound and animated writing.  The best thing about the Pulse is that it's based on the <a href="http://java.sun.com/javame/index.jsp">Java <span class="caps">ME</span></a> platform and exposes a (apparently complete) <a href="http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/DeveloperOverviewPage">development <span class="caps">API</span></a>, meaning pen-based applications can be designed that make use of all of the pens features.  I have not yet had a chance to experiment with the <span class="caps">API</span>, but it's on my schedule for tomorrow, so more details are to follow.  Until then, check out these <a href="http://www.youtube.com/watch?v=e2JGOSF9G8c">YouTube</a> <a href="http://www.youtube.com/watch?v=mz00Wg9Z-AM">Videos</a> for some more&nbsp;details.</p>
+<p>For anyone interested in developing (or discussing the development of) Pulse applications, I started a <a href="http://livescribe.ning.com/">Ning-based social network</a>.  If you were lucky enough to acquire a Pulse at JavaOne, please&nbsp;join!</p>

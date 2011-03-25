@@ -1,0 +1,14 @@
+---
+layout: post
+title: Philly Emerging Tech Day 2 by Eric DeLabar
+metadesc: 
+class: post disclaimer
+changefreq: never
+priority: 0.4
+category: outdated
+---
+<h1>Philly Emerging Tech Day 2</h1>
+<p>Loved the keynote this morning by <a href="http://www.floydmarinescu.com/">Floyd Marinescu</a> the <span class="caps">CEO</span> of <a href="http://www.infoq.com/">InfoQ</a>, it probably would have been better yesterday because it introduced a lot of the technologies being covered in the individual presentations, but beyond that, very&nbsp;interesting.</p>
+<p>Next, I checked out <a href="http://www.phillyemergingtech.com/abstracts.php#carlson">OpenLaszlo 4.0 - Java <span class="caps">ME</span>, Ajax and beyond</a>, I wasn't too interested, so I don't have much to say.  Next, I attended <a href="http://www.phillyemergingtech.com/abstracts.php#freemantle2"><span class="caps">WS</span>-* vs. <span class="caps">REST</span>: Myths, Facts and Lies</a> by <a href="http://pzf.fremantle.org/">Paul Fremantle</a> of <a href="http://wso2.com/"><span class="caps">WSO</span><sub>2</sub></a>.  Paul's presentation was excellent and incredibly informative on both <abbr title=""><span class="caps">SOAP</span></abbr>-based web services and <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer">RESTful</a>&nbsp;services.</p>
+<p>As with yesterday, the afternoon was not as good as the morning, I attended <a href="http://www.phillyemergingtech.com/abstracts.php#fernandez">Designing RESTful Rails Applications</a> which was mainly because of wanting more information on RESTful applications.  This one was a little too <a href="http://www.rubyonrails.org/">Rails</a>-centric for my taste, but it exposed a flaw in <span class="caps">REST</span> that eliminated some of the wow-factor in the concept.  Apparently <span class="caps">HTML</span> does not allow for <span class="caps">HTTP</span> requests of the non-<span class="caps">GET</span> or <span class="caps">POST</span> variety such as <span class="caps">DELETE</span> or <span class="caps">PUT</span>, which means a web-based front-end is not purely possible.  Apparently Rails works around this, but I'm not thrilled with that solution&nbsp;either.</p>
+<p>Finally, I attended an excellent presentation on <a href="http://www.phillyemergingtech.com/abstracts.php#bernard">Hibernate Search</a> by <a href="http://blog.emmanuelbernard.com/index.html">Emmanuel Bernard</a>. <a href="http://www.hibernate.org/410.html">Hibernate Search</a> is a system designed to capitalize on <a href="http://lucene.apache.org/">Lucene's</a> indexing ability in conjunction with Hibernate annotations in order to map search results to Hibernate entities.  Very cool, and definitely on my list of things to play&nbsp;with.</p>

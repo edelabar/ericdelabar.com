@@ -1,0 +1,70 @@
+---
+rooturi: http://ericdelabar.com
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://ericdelabar.com/</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/archives.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/colophon.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/contact.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/elsewhere.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/links.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/photos.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/projects.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://ericdelabar.com/sitemap.html</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>	
+	{% for post in site.posts %}
+	<url>
+		<loc>http://ericdelabar.com{{ post.url }}</loc>
+		<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+		<changefreq>{{ post.changefreq }}</changefreq>
+		<priority>{{ post.priority }}</priority>
+	</url>
+	{% endfor %}
+</urlset>
