@@ -85,3 +85,78 @@ I ask you for one thing.  Stop manufacturing cookie-cutter, power-tool graduates
 programmers.
 
 Thank you.  If you need me I'll be uninstalling Eclipse.
+
+<div id="comments">
+	<h2>Comments</h2>
+	<ol class="com-list">
+					
+		<li class="alt" id="comment-1275">
+			<blockquote class="commenttext">								
+				<cite><a href="http://eriwen.com" rel="external">Eric Wendelin</a></cite>:
+				<p>I think your solution is perfect and if I'm ever teaching in this decade or the next I will likely force my students to use the <span class="caps">CL</span>. There is a certain sort of understanding you acquire when you do things this&nbsp;way.</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 17, 2008 9:43 am</abbr></a> </p>
+		</li>
+    					    											
+		<li class="standard" id="comment-1276">
+			<blockquote class="commenttext">								
+				<cite><a href="http://inscrutabledesing.com/" rel="external">Chris Hall</a></cite>:
+				<p>The right tools make a developer more productive.  Providing shortcuts, automating repetitive tasks, and hiding all of the little nuts and bolts lets them concentrate on getting things done.  And that's what it's all about.</p>
+				<p>Unfortunately, tools are often used as a crutch.</p>
+				<p>If you're in the field long enough, you'll run into situations where your standard tool set isn't available.  Maybe you need to make a quick template tweak on a live server, or work on-site as part of a client's team using a tool set you've never seen before. How you handle that is what separates "good" from "good&nbsp;enough".</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 18, 2008 6:47 am</abbr></a> </p>
+		</li>
+    					    											
+		<li class="alt" id="comment-1280">
+			<blockquote class="commenttext">								
+				<cite><a href="http://iacobus.blogspot.com" rel="external">James E. Ervin</a></cite>:
+				<p>Don't worry about uninstalling Eclipse, it will be there for you when you grow up kid. ;) </p>
+				<p>First off I want to preface my comments, you were a kid when Home Improvement was on the air and yet you are pontificating like an experienced developer??  Whew, I need a moment to sit down and catch my breath, I don't like where that is going.</p>
+				<p>Still I don't disagree with your general point.  I think it would be better stated as your best power tool is still the one between your ears and not on your desktop.  The problem is not the power tool per se, the trouble is that there are people now that do not understand the reason for the power tool.  I agree with you that people starting out need to get it from the basic level.  I still think that my training as a Computer Engineer serves me well writing software.  I started out with logic design, chip design, and began programming from the assembly language level up.  This education gave me an understanding of how computers actually work and then my exposure to various Unix distributions showed me how an operating system should work.  Perhaps the way forward is to stop hiring <span class="caps">CS</span> grads?? *Duck*</p>
+				<p>In defense of the power tool, Home Improvement was a good comedy, but you are perhaps too young to remember what it was based on.  Home Improvement really was a parody of the old "This Old House" program on <span class="caps">PBS</span>.  Tim is Bob Villa and Al is Norm.  The reason why I mention this is that if you ever watch Norm's "New Yankee Workshop" on <span class="caps">PBS</span> you will notice two distinct things.  First, Norm is an extremely skilled craftsman.  Two, Norm, the real life Al, uses all kinds of Power&nbsp;Tools.</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 18, 2008 8:16 am</abbr></a> </p>
+		</li>
+    					    											
+		<li class="standard" id="comment-1281">
+			<blockquote class="commenttext-admin">								
+				<cite><a href="http://ericdelabar.com/">admin</a></cite>:
+				<p>@James,</p>
+				<p>Ouch. ;) </p>
+				<p>Why do you assume that because I was a "kid" when Home Improvement was on I am not an experienced developer?  I grew up on the web and writing software.  While I may only have 4-years post-college experience I've been doing web development professionally for 12, which in this industry's case is damn near forever.</p>
+				<p>But pontificating aside, I might have lost part of my point, which thankfully you have pointed out.  Norm, or Al in my example, can and should use power tools, since he has the experience and understanding of the medium in general to improve his own efficiency.</p>
+				<p>Just as your experience in <span class="caps">CE</span> makes you a better programmer, the experience I'm advocating in "<span class="caps">IT</span>" can do the same for web programmers.  If these kids don't know how a network really works how can we ever expect to write a web application.  And by "kids" I mean the ones that wrote their first "hello world" in college, not the ones that installed linux on their parent's <span class="caps">PC</span> in the 8th grade.</p>
+				<p>As far as Eclipse goes, I'll allow it back on my laptop when it starts be useful with Maven.  Until then it's TextMate and a terminal for&nbsp;me.</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 18, 2008 10:45 am</abbr></a> </p>
+		</li>
+    					    											
+		<li class="alt" id="comment-1282">
+			<blockquote class="commenttext">								
+				<cite><a href="http://abhijeetmaharana.com" rel="external">Abhijeet</a></cite>:
+				<p>I agree with you that using the shell and command line tools to do things is a great way to learn. But uninstalling Eclipse isn't going to help. On the contrary, its going to slow me (and you?) down a <span class="caps">LOT</span>. I can't imagine loading .java files one after other just to trace the flow. Whats wrong with F3? Its more like...right tool for the right&nbsp;job.</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 19, 2008 4:27 am</abbr></a> </p>
+		</li>
+			    											
+		<li class="standard" id="comment-1283">
+			<blockquote class="commenttext-admin">								
+				<cite><a href="http://ericdelabar.com/">admin</a></cite>:
+				<p>@Abhijeet,</p>
+				<p>I suppose my treatment of Eclipse is a little rash, but recently it has not been fitting very well in my programming tool belt.  If you are programming with java there is no doubt in my mind that you should have some sort of <span class="caps">IDE</span>, it just makes life easier, and the language practically requires it for its current design paradigms.  (Generate getters and setters saves me <strong>hours</strong>!)  </p>
+				<p>Like you said it is a case of the right tool for the right job, and at least in my recent experience with Eclipse, it's feeling a little more like <a href="http://forums.mtbr.com/showthread.php?t=338564" rel="nofollow">this tool</a> (does everything but is it <strong>really</strong> that useful?) than <a href="http://www.wengerna.com/browse/product.jsp?prod_id=20&amp;cat_id=1&amp;cat_name=Knives&amp;sub_cat_id=18" rel="nofollow">this one</a> (everything you really need <strong>and</strong> it still fits in your pocket!) Personally, I'm craving something a little simpler for a while, I'm not saying I'm going to go mountain man and only develop with vi, but it is still possible to be an effective developer without using a full&nbsp;<span class="caps">IDE</span>.</p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">June 19, 2008 4:50 am</abbr></a> </p>
+		</li>
+			    											
+		<li class="alt" id="comment-1494">
+			<blockquote class="commenttext">								
+				<cite>Chris</cite>:
+				<p>Interesting metaphor.  As a die-hard emacs user, I also enjoyed the conflicting metaphor:&nbsp;<a href="http://www.team.net/mjb/hawg.html" rel="nofollow">http://www.team.net/mjb/hawg.html</a></p>
+			</blockquote>
+			<p class="com-meta"><a href="#comment-108223"><abbr class="updated" title="2008-01-03T23:36:14">July 10, 2009 7:38 pm</abbr></a> </p>
+		</li>
+	
+	</ol>
+</div>
