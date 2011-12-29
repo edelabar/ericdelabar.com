@@ -7,9 +7,41 @@ changefreq: never
 priority: 0.4
 category: outdated
 ---
-<h1>JavaOne 2008 &ndash; Day 1</h1>
-<p>In case any of you missed my <a href="http://twitter.com/edelabar/statuses/805133233">tweet</a>, I learned so much today that it actually took me a good twenty minutes to remember what my first session was&nbsp;about!</p>
-<p>I eventually remembered, it was The Duke and the Elephant: <span class="caps">PHP</span> Meets Java.  Interesting concept, but doesn't seem ready for prime-time quite yet because it does not support <span class="caps">JIT</span> compiling the <a href="http://www.php.net/"><span class="caps">PHP</span></a> to bytecode like the other scripting languages like <a href="http://groovy.codehaus.org/">Groovy</a> and <a href="http://jruby.codehaus.org/">JRuby</a> do.  If you're interested, the project is <a href="http://www-306.ibm.com/software/webservers/smash/">WebSphere sMash</a> and it is being developed by <span class="caps">IBM</span> and falls under the umbrella of the <a href="http://www.projectzero.org/">ProjectZero incubator</a>.  It is being developed transparently, the source code is available, but it is <strong>not</strong> open&nbsp;source.</p>
-<p>Session number two was by far the best of the day, <span class="caps">JAX</span>-<span class="caps">RS</span>: The Java <span class="caps">API</span> for RESTful Web Services.  This session covered the basics of <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer"><acronym title="Representational State Transfer"><span class="caps">REST</span></acronym></a> and then went through an incredible live-coded example using the <a href="http://jcp.org/en/jsr/detail?id=311"><span class="caps">JSR</span>-311</a> <a href="https://jersey.dev.java.net/">reference implementation Jersey</a>.  I love the simplicity of the annotations and the fact that Jersey can run as a Java <span class="caps">SE</span> app without a web container opens the door for some interesting&nbsp;implementations.</p>
-<p>The next two sessions really weren't that interesting, but after dinner I went back to the Moscone Center for Jersey - RESTful WebServices Made Easy.  This session was not as technical as the <span class="caps">JAX</span>-<span class="caps">RS</span> session, but still provided some neat demos (including an example using a SunSpot), and offered some insight into the Jersey project.  Because I enjoyed the <span class="caps">REST</span> sessions so much I'll be checking out the blog's of the presenters: <a href="http://weblogs.java.net/blog/mhadley/">Marc Hadley</a>, <a href="http://blogs.sun.com/sandoz/">Paul Sandoz</a>, and <a href="http://blogs.sun.com/japod/">Jakub&nbsp;Podlesak</a>.</p>
-<p>So far, other than the food, I'm very impressed with <a href="http://java.sun.com/javaone">JavaOne</a>, and I might even go as far as saying it is better than <a href="http://javasymposium.techtarget.com/lasvegas/index.html">TheServerSide Symposium</a> was last year.  Although the Cult-of-Java is almost as extreme as the Cult-of-Apple, which I do find pretty odd.  The keynote was entertaining and interesting, but not <strong>that</strong>&nbsp;interesting!</p>
+# JavaOne 2008 &ndash; Day 1
+
+In case any of you missed my [tweet](http://twitter.com/edelabar/statuses/805133233), 
+I learned so much today that it actually took me a good twenty minutes to remember what my first 
+session was about!
+
+I eventually remembered, it was The Duke and the Elephant: PHP Meets 
+Java.  Interesting concept, but doesn't seem ready for prime-time quite yet because it does not 
+support JIT compiling the 
+[PHP](http://www.php.net/) to bytecode like the other 
+scripting languages like [Groovy](http://groovy.codehaus.org/) and 
+[JRuby](http://jruby.codehaus.org/) do.  If you're interested, the project is 
+[WebSphere sMash](http://www-306.ibm.com/software/webservers/smash/) and it is being developed by 
+IBM and falls under the umbrella of the [ProjectZero incubator](http://www.projectzero.org/). 
+It is being developed transparently, the source code is available, but it is **not** 
+open source.
+
+Session number two was by far the best of the day, JAX-RS: The Java API 
+for RESTful Web Services.  This session covered the basics of [REST</acronym>](http://en.wikipedia.org/wiki/Representational_State_Transfer"><acronym title="Representational State Transfer) 
+and then went through an incredible live-coded example using the [JSR-311](http://jcp.org/en/jsr/detail?id=311) 
+[reference implementation Jersey](https://jersey.dev.java.net/).  I love the simplicity 
+of the annotations and the fact that Jersey can run as a Java SE app 
+without a web container opens the door for some interesting implementations.
+
+The next two sessions really weren't that interesting, but after dinner I went back to the Moscone 
+Center for Jersey - RESTful WebServices Made Easy.  This session was not as technical as the 
+JAX-RS session, but still provided some neat 
+demos (including an example using a SunSpot), and offered some insight into the Jersey project. 
+Because I enjoyed the REST sessions so much I'll be checking out the 
+blog's of the presenters: [Marc Hadley](http://weblogs.java.net/blog/mhadley/), 
+[Paul Sandoz](http://blogs.sun.com/sandoz/), and 
+[Jakub Podlesak](http://blogs.sun.com/japod/).
+
+So far, other than the food, I'm very impressed with [JavaOne](http://java.sun.com/javaone), 
+and I might even go as far as saying it is better than 
+[TheServerSide Symposium](http://javasymposium.techtarget.com/lasvegas/index.html) was last year. 
+Although the Cult-of-Java is almost as extreme as the Cult-of-Apple, which I do find pretty odd. 
+The keynote was entertaining and interesting, but not **that** interesting!

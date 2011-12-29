@@ -7,9 +7,36 @@ changefreq: never
 priority: 0.4
 category: outdated
 ---
-<h1>JavaOne 2008 &ndash; Day 3</h1>
-<p>Day two's keynote was from Intel, basically the same as <span class="caps">AMD</span>'s evening general session yesterday.  Blah, blah, blah, we improved <span class="caps">JVM</span> performance, blah, blah,&nbsp;blah.</p>
-<p>With that out of the way, it was off to Groovy and Grails: Changing the Landscape of Java Platform, Enterprise Edition Patterns, which was unfortunately a bust.  I think I'm grails'd out.  The only thing new here was a couple new metaprogramming methods that I probably would have found by myself.  Not that it was a bad session, it was just the same as the other Groovy sessions so&nbsp;far.</p>
-<p>Next came Mylyn: Code at the Speed of Thought.  <strong>Very</strong> cool.  I can see <a href="http://www.eclipse.org/mylyn/">Mylyn</a> being very useful, especially when dealing with junior developers.  <a href="http://tasktop.com/blog/">Mik Kersten</a>, the presenter and the Mylyn creator, also noted that there was a "statisticly significant increase in the productivity of a 100-developer test group."  Sounds promising, but I'll need to play with it to see if it will fit into my employer's&nbsp;methodology.</p>
-<p>There were other sessions, but the only other one worth mentioning was Developing Semantic Web Applications on the Java Platform, which was a panel moderated by <a href="http://blogs.sun.com/bblfish/">Henry Story</a>, Sun's Semantic Web Evangelist (I want an evangelist job title!)  From this session, I was introduced to <a href="http://www.twine.com/">Twine</a>, <a href="http://www.w3.org/2005/ajar/tab">Tabulator</a>, <a href="http://www.w3.org/2004/01/rdxh/spec"><span class="caps">GRDDL</span></a>, and <a href="http://www.mulgara.org/">Mulgara</a>.  Definitely worth a little more&nbsp;investigation!</p>
-<p>Tonight was JavaOne after dark, the closing party held on Thursday night so that everyone can catch a red-eye home tomorrow night.  This year's bash featured <a href="http://www.smashmouth.com/">Smash Mouth</a>, and turned out to be pretty entertaining when they played a few <a href="http://www.led-zeppelin.com/">Zepplin</a> songs before closing the show.  (An amused on-looker said they ran out of their own songs so they started playing something people would know!)  I was able to grab some video with my camera, which I'll post to <a href="http://www.youtube.com/user/edelabar" rel="me">YouTube</a> when I get home, but sadly there was no encore and we were back in the hotel by&nbsp;9pm.</p>
+# JavaOne 2008 &ndash; Day 3
+
+Day two's keynote was from Intel, basically the same as AMD's evening 
+general session yesterday.  Blah, blah, blah, we improved JVM performance, 
+blah, blah, blah.
+
+With that out of the way, it was off to Groovy and Grails: Changing the Landscape of Java Platform, 
+Enterprise Edition Patterns, which was unfortunately a bust.  I think I'm grails'd out.  The only 
+thing new here was a couple new metaprogramming methods that I probably would have found by myself. 
+Not that it was a bad session, it was just the same as the other Groovy sessions so far.
+
+Next came Mylyn: Code at the Speed of Thought.  **Very** cool.  I can see 
+[Mylyn](http://www.eclipse.org/mylyn/) being very useful, especially when dealing with 
+junior developers.  [Mik Kersten](http://tasktop.com/blog/), the presenter and the Mylyn 
+creator, also noted that there was a "statisticly significant increase in the productivity of a 
+100-developer test group."  Sounds promising, but I'll need to play with it to see if it will fit 
+into my employer's methodology.
+
+There were other sessions, but the only other one worth mentioning was Developing Semantic Web 
+Applications on the Java Platform, which was a panel moderated by [Henry Story](http://blogs.sun.com/bblfish/), 
+Sun's Semantic Web Evangelist (I want an evangelist job title!)  From this session, I was introduced to 
+[Twine](http://www.twine.com/), 
+[Tabulator](http://www.w3.org/2005/ajar/tab), 
+[GRDDL](http://www.w3.org/2004/01/rdxh/spec), and 
+[Mulgara](http://www.mulgara.org/).  Definitely worth a little more investigation!
+
+Tonight was JavaOne after dark, the closing party held on Thursday night so that everyone can 
+catch a red-eye home tomorrow night.  This year's bash featured [Smash Mouth](http://www.smashmouth.com/), 
+and turned out to be pretty entertaining when they played a few [Zepplin](http://www.led-zeppelin.com/) 
+songs before closing the show.  (An amused on-looker said they ran out of their own songs so 
+they started playing something people would know!)  I was able to grab some video with my camera, 
+which I'll post to [YouTube](http://www.youtube.com/user/edelabar" rel="me) when I get 
+home, but sadly there was no encore and we were back in the hotel by 9pm.
