@@ -1,0 +1,11 @@
+javascript_compressor: closure
+
+javascripts:
+  script:
+    - _site/js/script.js
+  plugins:
+    - _site/js/plugins.js
+
+stylesheets:
+  screen:
+    - _site/css/style.css
