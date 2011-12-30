@@ -7,5 +7,5 @@ javascripts:
     - _site/js/plugins.js
 
 stylesheets:
-  screen:
+  style:
     - _site/css/style.css

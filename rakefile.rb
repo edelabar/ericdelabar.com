@@ -14,6 +14,10 @@ desc "Package app for production"
 task :package do
   ENV['JEKYLL_ENV'] = 'production'
   
+  ENV['VERSION_style'] = %x{git log -p css/style.css | head -n 1}.split(' ').last[0,8]
+  ENV['VERSION_plugins'] = %x{git log -p js/plugins.js | head -n 1}.split(' ').last[0,8]
+  ENV['VERSION_script'] = %x{git log -p js/script.js | head -n 1}.split(' ').last[0,8]
+  
   Rake::Task["build"].invoke
 
   print "Compressing assets..."

@@ -5,6 +5,7 @@ class AssetTag < Liquid::Tag
   def initialize(tag_name, name, kind, tokens)
     super tag_name, name, tokens
     @name   = name.to_s.strip
+    @version = (ENV["VERSION_#{@name}"] || Time.now.strftime("%Y%m%d%H%M%S"))
     @kind   = kind.to_s
   end
 
@@ -19,12 +20,14 @@ class AssetTag < Liquid::Tag
   end
   
   def name_with_ext
-    "#{@name}.#{@ext}"
+    "#{@name}.#{@version}.#{@ext}"
   end
   
   def assets_for_name
     if CONFIG[@asset_type].include?(@name)
       CONFIG[@asset_type][@name].map do |asset|
+        parts = asset.split('.')
+        asset = "#{parts[0]}.#{@version}.#{parts[1]}"
         asset.gsub(/_site\/(css|js)\//, '')
       end
     else
