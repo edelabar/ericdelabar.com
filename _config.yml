@@ -1,5 +1,6 @@
 pygments: true
 permalink: /:year/:month/:title.html
+auto: true
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
