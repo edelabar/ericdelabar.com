@@ -10,7 +10,7 @@ category: outdated
 # Matt Snider, You've Been Blogrolled
 
 I haven't said anything about it yet, but I love Google Reader.  Not only is it an amazing feed reader, 
-it has a neat little service where it recommends feeds to you based on your existing reading list.  
+it has a neat little service where it recommends feeds to you based on your existing reading list. 
 Yesterday night it recommended [Matt Snider's blog](http://mattsnider.com/) to me.
 
 Matt writes about JavaScript and JavaScript frameworks, and includes some very in depth analysis and 

@@ -15,7 +15,7 @@ shopping in my local Old Navy and I noticed the colors being used in the decorat
 A solid brown wash with blue and white "boxes" and orange circles.  I liked it so I snapped a quick picture with my 
 phone and after playing for a while with different shades I came up with something like this.
 
-<img src="images/color-study.gif" border="0" alt="color_study.gif" width="400" height="276" class="clear">
+<img src="/img/content/color-study.gif" border="0" alt="color_study.gif" width="400" height="276" class="clear">
 	
 It's pretty abstract for now, and it doesn't offer any of the texture or depth I'm looking for, but as a palette, 
 I'm very happy.

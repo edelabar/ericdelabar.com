@@ -18,7 +18,7 @@ for designing a Web 2.0 application. Today, we'll look at the parts of a documen
 but play a huge role in how a user finds your site and how it's actually rendered on their screen.
 
 First things first; make your DOCTYPE the first line of the file.  That's right, line number one, no 
-<acronym title="eXtensible Markup Language">XML</acronym> definition, no spaces, no server-side code, the first line of the file.  
+<acronym title="eXtensible Markup Language">XML</acronym> definition, no spaces, no server-side code, the first line of the file. 
 This ensures that you don't end up in 
 [quirks mode](http://en.wikipedia.org/wiki/Quirks_mode "For more information about quirks mode, check out Wikipedia") accidentally. 
 Now, as far as DOCTYPE's go, I really only see two options, [HTML 4.01 Strict](http://www.w3.org/TR/html4/cover.html#minitoc "The Official W3C HTML 4.01 Specification...learn it, live it, love it...just kidding, it these things read like some other language, but it's useful to know they're there.") and 

@@ -42,7 +42,7 @@ monetization strategy that I'm hoping might pay for some of my daughter's colleg
 6-weeks old today so I have some time to work on it) and a lot of my retirement.  What does this 
 mean to you, the loyal reader?  Basically, sometime in the future I'll be selling advertising, I'll 
 probably have [AdSense](http://www.google.com/adsense/), and I'll definitely try and take 
-advantage of the [Amazon Associates](http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=https%3A%2F%2Faffiliate-program.amazon.com%2F&amp;tag=ericdcom-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325)<img src="http://www.assoc-amazon.com/e/ir?t=ericdcom-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> Program.  
+advantage of the [Amazon Associates](http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=https%3A%2F%2Faffiliate-program.amazon.com%2F&amp;tag=ericdcom-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325)<img src="http://www.assoc-amazon.com/e/ir?t=ericdcom-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> Program. 
 I plan on doing all of this tastefully, I think I have reasonable goals, and as (hopefully) demonstrated 
 by my priorities here, quality content is going to be number one priority.
 

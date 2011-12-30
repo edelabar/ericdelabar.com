@@ -33,11 +33,11 @@ everywhere else as well.  To start off, make sure that when you first install Fi
 Inspector is installed. To do this, on the "Setup Type" screen, choose Custom, and on the "Choose Optional Components" 
 screen, make sure the "DOM Inspector" check box is checked:
 
-<img src="images/custom.gif" alt="custom.gif" border="0" width="502" height="386" id="img_custom" class="clear">
+<img src="/img/content/custom.gif" alt="custom.gif" border="0" width="502" height="386" id="img_custom" class="clear">
 
 Choose Optional Components...
 
-<img src="images/dom-inspector.gif" alt="dom_inspector.gif" border="0" width="503" height="386" id="img_inspector" class="clear">
+<img src="/img/content/dom-inspector.gif" alt="dom_inspector.gif" border="0" width="503" height="386" id="img_inspector" class="clear">
 
 Install DOM Inspector...
 

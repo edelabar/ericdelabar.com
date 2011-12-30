@@ -15,7 +15,7 @@ tools, which are interesting, but being mainly JSF, not very appealing
 for my own use.
 
 My favorite session of the day had to be Groovy, the Red Pill: Metaprogramming — How to Blow the 
-Mind of Developers on the Java Platform presented by [Scott Davis](http://www.davisworld.org/blojsom/blog/).  
+Mind of Developers on the Java Platform presented by [Scott Davis](http://www.davisworld.org/blojsom/blog/). 
 This session was **incredible**.  Scott speaks like a televangelist and by the end 
 of the presentation seemed to have half the audience ready to stand, shout AMEN, 
 and follow him as a new religious leader.  I now have absolutely no doubt in my mind that 

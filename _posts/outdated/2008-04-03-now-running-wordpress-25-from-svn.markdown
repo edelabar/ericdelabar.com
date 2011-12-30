@@ -25,5 +25,5 @@ looks a little funny thanks to the new admin design.  While I was at it I added 
 [my recent foray into OpenID](/2008/04/identity-and-openid.html).  I'm not sure it's working correctly, I can login 
 with my ClickPass account (which I'm assuming is cookie based), but have been unsuccessful merging my 
 <a href="http://openid.delabar.org/eric" rel="me">preferred OpenID</a>, or even the one 
-<a href="http://www.technorati.com/people/technorati/edelabar" rel="me">Technorati</a> provides.  
+<a href="http://www.technorati.com/people/technorati/edelabar" rel="me">Technorati</a> provides. 
 I will have to look into that one a little further, but until then, no ClickPass for me.

@@ -45,7 +45,7 @@ goal with some simple [PHP](http://www.php.net/) code. (Pardon my PHP, I'm by no
 
 {% render_gist https://gist.github.com/raw/885496/59ccc0128f30ba6f5d00ce67d62e9054a1e6930b/progressive-enhancement-lightwindow.php %}
 
-Problem solved, [have a look here and click on the "this link" link](http://www.ericdelabar.com/examples/progressive-enhancement-lightwindow/).  
+Problem solved, [have a look here and click on the "this link" link](http://www.ericdelabar.com/examples/progressive-enhancement-lightwindow/). 
 Of course there are a few more programming alternative along these lines, including 
 modifying the LightWindow object at runtime to prevent a second crawl of the DOM for elements 
 with the `lightwindow` class, theoretically improving performance, but I'm going to leave that for another article.

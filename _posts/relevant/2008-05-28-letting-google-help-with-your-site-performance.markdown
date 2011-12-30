@@ -18,13 +18,11 @@ sufficient access to their web host to actually be able to do that.  Enter Googl
 [content distribution network](http://en.wikipedia.org/wiki/Content_distribution_network) for 
 providing pre-compressed versions of the web's favorite Web 2.0 JavaScript libraries:
 
-<ul>
-<li>[jQuery](http://jquery.com/)</li>
-<li>[prototype](http://www.prototypejs.org/)</li>
-<li>[script.aculo.us](http://script.aculo.us/)</li>
-<li>[MooTools](http://mootools.net/)</li>
-<li>[dojo](http://dojotoolkit.org/)</li>
-</ul>
+* [jQuery](http://jquery.com/)
+* [prototype](http://www.prototypejs.org/)
+* [script.aculo.us](http://script.aculo.us/)
+* [MooTools](http://mootools.net/)
+* [dojo](http://dojotoolkit.org/)
 
 Access to these libraries is quite simple, in fact loading prototype can be accomplished with the following 
 four lines of code:

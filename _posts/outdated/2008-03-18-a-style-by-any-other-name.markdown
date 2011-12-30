@@ -11,7 +11,7 @@ category: outdated
 
 Ah, creativity.  As always, I'm in search of a [muse](http://en.wikipedia.org/wiki/Muse).  Now I have a rather plain looking 
 website just begging for some style.  I'm moderately happy with the markup, and I feel comfortable enough with 
-[WordPress](http://www.wordpress.org/)' theming capabilities that I'm ready start making this site look like something.  
+[WordPress](http://www.wordpress.org/)' theming capabilities that I'm ready start making this site look like something. 
 The problem is what?
 
 I'm a t-shirt and jeans type of guy, so it can't be too formal.  Musically, I'm [punk-rock](http://en.wikipedia.org/wiki/Punk_rock) 

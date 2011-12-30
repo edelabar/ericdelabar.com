@@ -19,7 +19,7 @@ account, I share video to <a href="http://www.youtube.com/user/edelabar" rel="me
 <a href="http://www.linkedin.com/in/ericdelabar" rel="me">LinkedIn</a>, I use 
 <a href="http://ma.gnolia.com/people/edelabar" rel="me">Ma.gnolia</a>, 
 <a href="http://www.facebook.com/profile.php?id=836750561" rel="me">Facebook</a>, and I've toyed around with 
-<a href="http://twitter.com/edelabar" rel="me">Twitter</a> and <a href="http://www.myspace.com/ericdelabar" rel="me">MySpace</a>.  
+<a href="http://twitter.com/edelabar" rel="me">Twitter</a> and <a href="http://www.myspace.com/ericdelabar" rel="me">MySpace</a>. 
 In short, there's too much of my content scattered about the web and I don't see the need to manually re-create (or aggregate) it 
 somewhere other than my own blog.  I want the meta-information to go with the content.  I want to know that a link was shared 
 from <a href="http://www.google.com/reader/shared/08515370998433803941" rel="me">Google Reader</a>, or that I can grab the 

@@ -27,6 +27,7 @@ module Jekyll
       headers, body = http.get(path)
       if headers.code == "200" 
         @code = body 
+        # $stderr.puts body
       else
         $stderr.puts "Failed to retreive gist, check the gist URL"
       end  

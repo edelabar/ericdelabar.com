@@ -7,7 +7,7 @@ changefreq: never
 priority: 0.4
 category: outdated
 ---
-# Clearing My ``&lt;head&gt;`
+# Clearing My `<head>`
 
 It always struck me as odd, but I originally had three types of feeds on this site, 
 [Atom](http://en.wikipedia.org/wiki/Atom_(standard)), 
@@ -27,7 +27,7 @@ While hacking feeds out of my `head` I chose to keep the RSS 2.0 feed because
 WordPress seems to favor it based on URL structure; with RSS 2.0 being `/feed` and RSS .92 and ATOM being 
 `/feed/rss` and 
 `/feed/atom` respectively.  With that answered, I suppose the next question is 
-"why?"  Well, mainly because of [this article by Dean Allen over at Textism](http://textism.com/2008/04/19/please.stop.doing.this).  
+"why?"  Well, mainly because of [this article by Dean Allen over at Textism](http://textism.com/2008/04/19/please.stop.doing.this). 
 It just makes sense, and from a usability standpoint, the easier to subscribe to my feed the better!  Less choices 
 equals easier to use, so maybe this will help my subscription numbers if people can subscribe without thinking.
 

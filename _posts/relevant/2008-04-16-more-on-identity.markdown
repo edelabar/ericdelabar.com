@@ -12,7 +12,7 @@ category: relevant
 First things first, three new entries to the Blogroll: [Bokardo](http://bokardo.com/), 
 [Like It Matters](http://www.brianoberkirch.com/), and 
 [Own Your Identity](http://www.ownyouridentity.com/).  I've been a long-time 
-[Bokardo](http://bokardo.com/) reader, and the other two entries came from that.  
+[Bokardo](http://bokardo.com/) reader, and the other two entries came from that. 
 [Josh Porter from Bokardo](http://bokardo.com/) is a contributor to 
 [Own Your Identity](http://www.ownyouridentity.com/), which is also contributed to by 
 [Brian Oberkirch of Like It Matters](http://www.brianoberkirch.com/) and 

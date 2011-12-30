@@ -28,7 +28,7 @@ URI to accept the ping and we now have an endpoint.  So far, so good.  Next, we 
 in order for this to work people cannot be able to spam the system, we need a pretty solid concept of identity.  To borrow 
 from [MicroID](http://microid.org/), URL + email = identity, since most (if not all) 
 blog comments accept email and don't show it, we can create a MicroID hash and add it to the comment's container element 
-as a class according to the [Microformat class pattern](http://microformats.org/wiki/class-design-pattern).  
+as a class according to the [Microformat class pattern](http://microformats.org/wiki/class-design-pattern). 
 Finally, once the comment is approved and posted, the blog pings the commenter's blog with the generated MicroID and the 
 post URL, the commenter's blog visits the site and extracts the comment via the MicroID class, 
 and adds it to the feed of current conversations.

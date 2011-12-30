@@ -84,7 +84,7 @@ three, the first, the free, and the best.  If they already exist you better be a
 maybe just the best but if you have an incredible marketing team.  Users get entrenched and usually won't switch, so 
 if your market is saturated, it may be a good time to consider a new idea.
 
-That's my two cents, if you like it, listen to it.  If you want to use my experience and work with me, please contact me.  
+That's my two cents, if you like it, listen to it.  If you want to use my experience and work with me, please contact me. 
 If you disagree, comment, I want to hear why.
 
 To state for the record, the opinions expressed in this article are those of the author and not his employer, while his 

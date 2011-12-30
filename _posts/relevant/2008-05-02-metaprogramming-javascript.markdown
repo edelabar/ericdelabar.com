@@ -42,7 +42,7 @@ this code is pretty simple:
 This code relies on one of the core concepts of JavaScript <acronym title="Object Oriented Programming">OOP</acronym>; 
 a JavaScript object is nothing more than an associative array.  Knowing this, when passed a class, we can 
 get a list of all class member names using the Prototype [ `Object.keys` method](http://www.prototypejs.org/api/object/keys) 
-as shown on line 4.  Once we have the member names, we loop through all members (line 5) of the class.  
+as shown on line 4.  Once we have the member names, we loop through all members (line 5) of the class. 
 For each member we check if it [is a function](http://www.prototypejs.org/api/object/isfunction) (line 7). 
 If it is, we alias the function (line 9) and create a new function (line 10) in its place that wraps the aliased function 
 with calls to the before (line 11) and after (line 20) functions we pass in.  Notice the use of  `clazz.prototype` 

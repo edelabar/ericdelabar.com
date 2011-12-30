@@ -30,7 +30,7 @@ interpreted and not compiled there's no compiler to catch this error and it is p
 without an adequate amount of testing or review a piece of code like this could make it out as a bug. 
 This point was brought up as a problem with Groovy to [Jeff Brown](http://javajeff.blogspot.com/), 
 the instructor of the "[Rapid Web Development with Groovy &amp; Grails](http://java.sun.com/javaone/sf/javauniversity.jsp#M5)" 
-Java University session at [JavaOne](http://java.sun.com/javaone/sf/index.jsp).  
+Java University session at [JavaOne](http://java.sun.com/javaone/sf/index.jsp). 
 Jeff agreed that it was an issue, but basically just ignored it and moved on.  I argue that it's 
 not a problem with the language it's a problem with the developer.
 

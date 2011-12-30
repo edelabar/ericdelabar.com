@@ -78,31 +78,31 @@ decent amount of pictures, and across a few browsers.
 <tbody>
 <tr>
 <td>10</td>
-<td>[4](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[6](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
-<td>[3](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">4</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">6</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">3</a></td>
 </tr>
 <tr>
 <td>50</td>
-<td>[17](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[14](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
-<td>[13](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">17</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">14</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">13</a></td>
 </tr>
 <tr>
 <td>100</td>
-<td>[33](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[24](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
-<td>[26](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">33</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">24</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">26</a></td>
 </tr>
 <tr>
 <td>1000</td>
-<td>[365](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[452](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
-<td>[178](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">365</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">452</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">178</a></td>
 </tr>
 </tbody>
 </table>
@@ -127,31 +127,31 @@ decent amount of pictures, and across a few browsers.
 <tbody>
 <tr>
 <td>10</td>
-<td>[56](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[48](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
-<td>[9](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">56</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">48</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">9</a></td>
 </tr>
 <tr>
 <td>50</td>
-<td>[238](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[213](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
-<td>[76](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">238</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">213</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">76</a></td>
 </tr>
 <tr>
 <td>100</td>
-<td>[457](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[424](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
-<td>[235](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">457</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">424</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">235</a></td>
 </tr>
 <tr>
 <td>1000</td>
-<td>[4642](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[4584](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
-<td>[28110](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">4642</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">4584</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">28110</a></td>
 </tr>
 </tbody>
 </table>
@@ -178,31 +178,31 @@ decent amount of pictures, and across a few browsers.
 <tbody>
 <tr>
 <td>10</td>
-<td>[12](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=10)</td>
-<td>[8](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
-<td>[7](/examples/large-forms-performance/unoptimized.php?qty=10)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">12</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=10">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">8</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=10">7</a></td>
 </tr>
 <tr>
 <td>50</td>
-<td>[45](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[0](/examples/large-forms-performance/optimized.php?qty=50)</td>
-<td>[31](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
-<td>[30](/examples/large-forms-performance/unoptimized.php?qty=50)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">45</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=50">0</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">31</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=50">30</a></td>
 </tr>
 <tr>
 <td>100</td>
-<td>[87](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[1](/examples/large-forms-performance/optimized.php?qty=100)</td>
-<td>[60](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
-<td>[59](/examples/large-forms-performance/unoptimized.php?qty=100)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">87</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=100">1</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">60</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=100">59</a></td>
 </tr>
 <tr>
 <td>1000</td>
-<td>[985](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[3](/examples/large-forms-performance/optimized.php?qty=1000)</td>
-<td>[584](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
-<td>[581](/examples/large-forms-performance/unoptimized.php?qty=1000)</td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">985</a></td>
+<td><a href="/examples/large-forms-performance/optimized.php?qty=1000">3</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">584</a></td>
+<td><a href="/examples/large-forms-performance/unoptimized.php?qty=1000">581</a></td>
 </tr>
 </tbody>
 </table>

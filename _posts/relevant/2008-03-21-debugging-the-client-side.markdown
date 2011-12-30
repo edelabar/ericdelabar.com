@@ -17,11 +17,9 @@ typical the members of my team, or J2EE developers in general, get lost.
 
 When somebody comes across some weird client-side error and they come looking for my help, I start with three questions:
 
-<ol>
-<li>Does it [validate](http://validator.w3.org/)? (Is it a strict&nbsp;doctype?)</li>
-<li>Is it in [quirks&nbsp;mode](http://www.quirksmode.org/css/quirksmode.html)?</li>
-<li>Did you separate content from presentation from&nbsp;behavior?</li>
-</ol>
+1. Does it [validate](http://validator.w3.org/)? (Is it a strict doctype?)
+2. Is it in [quirks mode](http://www.quirksmode.org/css/quirksmode.html)?
+3. Did you separate content from presentation from behavior?
 
 I think one and two are pretty obvious, if you're not following the standards the browser can (and will) do what 
 it wants with your page.  Follow the rules and your playing field becomes a lot more level.  Number three is a 
@@ -43,7 +41,7 @@ is winning in the case of a conflict.  If the problem is not showing up in
 [Firefox](http://www.mozilla.com/en-US/firefox/), I'm guessing it also works in Safari, 
 so it has be an IE issue.  Check your `float`s, check your 
 `width`s, and make sure you're not relying on anything IE doesn't support, like 
-`min-height` or `max-height`.  If you're still not sure what's going on, checkout the Microsoft Developer Toolbar.  
+`min-height` or `max-height`.  If you're still not sure what's going on, checkout the Microsoft Developer Toolbar. 
 To get it, go to Microsoft.com and search for "Developer Toolbar," I'd post a link, but every time I try 
 bookmarking the page it moves, so it's probably just easier to search for it.  The Developer Toolbar works 
 similarly to [Firebug](http://www.getfirebug.com/), but is definitely lacking.  If your problem 

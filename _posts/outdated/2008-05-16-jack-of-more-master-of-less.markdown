@@ -19,7 +19,7 @@ Jacks of all web-application development and we had it mastered.
 
 When I started here our tech stack was pretty small, we wrote 
 [J2EE](http://en.wikipedia.org/wiki/Java_EE) applications and we deployed them to 
-[WebSphere Application Server (WAS)](http://en.wikipedia.org/wiki/WebSphere_Application_Server).  
+[WebSphere Application Server (WAS)](http://en.wikipedia.org/wiki/WebSphere_Application_Server). 
 We wrote these applications using [WebSphere Studio Application Developer (WSAD)](http://en.wikipedia.org/wiki/IBM_Websphere_Studio_Application_Developer) 
 using a home-brew framework of <abbr title="Gang of Four">[GoF](http://en.wikipedia.org/w/index.php?title=Gang_of_Four_%28software%29&amp;redirect=no)</abbr>
 patterns and JSP scriptlets.  JSTL was just entering the scene and 
@@ -77,7 +77,7 @@ long.  I'm sad to say, but I don't think the problem is the training, I think it
 you know how to write code.  If you know how to learn, the size of the tech-stack shouldn't matter.  The tech-stack makes you 
 life easier if you learn how to use it.  You don't learn Web 2.0 from a book or a class, you learn it by living it.  You want 
 to design web apps, where's your website?  At least tell me about your idea for the next killer web-app.  You want to write code?  
-Show me.  What open-source project(s) do you contribute to?  
+Show me.  What open-source project(s) do you contribute to? 
 Write an [awesomely bad and ironic implementation of the fizz-buzz](http://gilesbowkett.blogspot.com/2007/03/sarcastic-fizzbuzz.html) 
 problem and explain to me with a smile on your face why you did it.  Tell me why [Joel](http://www.joelonsoftware.com/) 
 is your new religious leader, how [Zeldman](http://www.zeldman.com/) and [Meyer](http://meyerweb.com/) are 

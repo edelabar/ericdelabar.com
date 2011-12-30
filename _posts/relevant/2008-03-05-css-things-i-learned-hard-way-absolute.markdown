@@ -18,7 +18,7 @@ about absolute positioning.
 > removed from the normal flow of the document. The containing block of the absolutely 
 > positioned element is the nearest ancestor element with a `position` other 
 > than `static`. If no such ancestor exists, then the containing block is the 
-> root element of the document.
+> root element of the document.  
 > -*[Eric A. Meyer](http://meyerweb.com/ "Eric A. Meyer, CSS Guru").  Cascading Style Sheets 2.0 Programmer's Reference.  California: Osborne/McGraw-Hill, 2001.*
 
 In truth, the solution was in front of my face the entire time, I just never understood 

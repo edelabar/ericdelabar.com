@@ -10,15 +10,13 @@ category: outdated
 # Best Laid Plans
 
 I tried.  I even had a rough draft; but when I went to try out my concept it didn't work.  My article on Friday 
-was supposed to be on 301 redirecting from the old [WordPress](http://wordpress.org/) 
-URL structure to a new 
-URL structure, but after doing my 
-research, I'm not sure it's even possible.  My guess is mod_redirect ignores URL 
+was supposed to be on 301 redirecting from the old [WordPress](http://wordpress.org/) URL structure to a new URL 
+structure, but after doing my research, I'm not sure it's even possible.  My guess is mod_redirect ignores URL 
 parameters, but I definitely need to do some more homework.
 
 The problem I was trying to solve is that 
 [Google has quite a few of my pages indexed](http://www.google.com/search?hl=en&amp;q=site%3Awww.ericdelabar.com&amp;btnG=Google+Search), 
-but they're in the wrong permalink structure and I'd like to convert them to the friendlier structure that I have now.  
+but they're in the wrong permalink structure and I'd like to convert them to the friendlier structure that I have now. 
 Looking around the web there are a [few](http://urbangiraffe.com/plugins/advanced-permalinks/) 
 [WordPress](http://www.deanlee.cn/wordpress/permalinks-migration-plugin/) 
 [plug-ins](http://wordpress.org/extend/plugins/permalinks-moved-permanently/#post-2209) that are 

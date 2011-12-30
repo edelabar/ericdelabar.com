@@ -22,7 +22,7 @@ we're also going to find out how long it takes for these corrections to take pla
 First things first, here's the problem, if I do a google site search like this `site:www.ericdelabar.com` 
 I get results that look like this:
 
-<img src="images/serp.gif" alt="serp.gif" border="0" width="559" height="557" class="clear">
+<img src="/img/content/serp.gif" alt="serp.gif" border="0" width="559" height="557" class="clear">
 
 Notice the entries that look something like `www.ericedelabar.com/?cat=11`?  They all work, but they're not ideal for 
 <acronym title="Search Engine Optimization">SEO</acronym>, so first things first, the `.htaccess` file.
@@ -53,7 +53,7 @@ Next, we're going to use the Google Webmaster Tools to remove the wp-login and w
 This requires that the pages have either a robots.txt file disallowing them or a robots metatag with 
 `noindex` specified.  Since our robots.txt file should handle this, our request should look like the following:
 
-<img src="images/remove-page.gif" alt="remove_page.gif" border="0" width="1014" height="464" class="clear">
+<img src="/img/content/remove-page.gif" alt="remove_page.gif" border="0" width="1014" height="464" class="clear">
 	
 Finally, we resubmit the site for crawling and hope that this gets cleared up within a few days.
 

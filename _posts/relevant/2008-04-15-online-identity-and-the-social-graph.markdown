@@ -9,9 +9,9 @@ category: relevant
 ---
 # Online Identity and the Social Graph
 
-If I'm ever going to be rich and famous people will need to know who I am.  *Removes tongue from cheek.*  
+If I'm ever going to be rich and famous people will need to know who I am.  *Removes tongue from cheek.* 
 If anyone knows who I am it should probably be Google.  How good is a web guru if they're not number one in 
-Google for their own name?  Seriously would you trust anything I had to say if you couldn't find me in Google?  
+Google for their own name?  Seriously would you trust anything I had to say if you couldn't find me in Google? 
 Well, it seems I have that covered, at least for now, I'm number one, two, three and four on a search for 
 <em>eric delabar</em>.  My problem starts with result number five.
 
@@ -39,7 +39,7 @@ these comments into my own site to track my current conversations in the blogosp
 I guess what this all comes down to is that I'm wondering how long until Google has the ability to generate something 
 like the following:
 
-<img src="images/google-people-links.gif" alt="A mocked screenshot of Google site links changed to be about Eric DeLabar in a hypothetical Google Person Links." border="0" width="696" height="304">
+<img src="/img/content/google-people-links.gif" alt="A mocked screenshot of Google site links changed to be about Eric DeLabar in a hypothetical Google Person Links." border="0" width="696" height="304">
 	
 Google, are you listening?  A few more [microformat](http://microformats.org/) parsers, an opt-out (or opt-in) 
 page, and the information you already have.

@@ -14,7 +14,7 @@ soapbox.  But first, a brief introduction to the topic at hand.
 
 I think I noticed this whole grid revolution back in 
 [December 2006 when Cameron Moll mentioned it in his article Gridding the 960](http://cameronmoll.com/archives/2006/12/gridding_the_960/), 
-based on [the *optimal* layout width for a 1024px wide screen](http://www.cameronmoll.com/archives/001220.html).  
+based on [the *optimal* layout width for a 1024px wide screen](http://www.cameronmoll.com/archives/001220.html). 
 I was interested, and sites designed using a grid seemed pretty sharp, so I added it to ma.gnolia and moved on.  A few months 
 later I caught [an article on ALA about the baseline grid](http://www.alistapart.com/articles/settingtypeontheweb/), 
 a post to [24-ways](http://24ways.org/) about 

@@ -40,12 +40,12 @@ it'll be [Harry Potter](http://en.wikipedia.org/wiki/Harry_Potter).  To get my t
 grabbed the main body content, and pasted it into a new HTML document.  I also removed all of the 
 images since I didn't want broken images or to be hitting wikipedia's servers for my experiment.  I wrote a quick JavaScript 
 class that will do my benchmarking, and a quick test case that calls my two methods above as well as two other methods and 
-single calls to both the `$</code> function and the <code>document.getElementById` function.  To perform the 
+single calls to both the `$` function and the `document.getElementById` function.  To perform the 
 benchmark, I run each method 1000 times.  I initially tried smaller numbers but there was not enough visual difference to 
 prove my theory since JavaScript is only accurate to the millisecond.  You can find 
 [the test code here](http://www.ericdelabar.com/examples/javascript-getelementbyid-performance/test.js), the 
 [benchmark class here](http://www.ericdelabar.com/examples/lib/benchmark.js), and you can 
-[run the test here](http://www.ericdelabar.com/examples/javascript-getelementbyid-performance/wiki.html).  
+[run the test here](http://www.ericdelabar.com/examples/javascript-getelementbyid-performance/wiki.html). 
 I'm using [Firebug Lite](http://www.getfirebug.com/lite.html) for the console logging, but if you have 
 [Firebug](http://www.getfirebug.com/) installed it will use the Firebug console.  As I said before I just wrote the 
 benchmarking class, but look for a future post and improved version now that the seed has been planted.
