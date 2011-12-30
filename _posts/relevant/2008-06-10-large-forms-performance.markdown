@@ -13,7 +13,7 @@ As I've covered before, [ill-used JavaScript can lead to some serious performanc
 most of which are caused by simply not thinking about what the code is really doing.  Recently I came across a 
 site that provided digital photo printing,  This site had a nice interface that allowed my to upload close to 
 three hundred photos.  On the resulting page, each photo was displayed with all of the available sizes as input 
-boxes, which [looked something like this](/examples/large-forms-performance/unoptimized.php?qty=300" rel="nofollow).  
+boxes, which [looked something like this](/examples/large-forms-performance/unoptimized.php?qty=300" rel="nofollow). 
 I liked the interface, but came across a very serious problem.  The event handlers that updated the totals box 
 ran on the keyup event and recalculated the total of the entire form!  This worked fine with ten or twenty photos, 
 but the 300 that I provided brought my browser to a screeching halt.
@@ -207,7 +207,7 @@ decent amount of pictures, and across a few browsers.
 </tbody>
 </table>
 
-The results pretty obviously speak for themselves, but there is one caveat, be sure to notice the initial load time.  
+The results pretty obviously speak for themselves, but there is one caveat, be sure to notice the initial load time. 
 Since the event handlers still need to be assigned to each input on the page the more inputs there are the longer the page 
 load takes, and the load time is even slightly slower on the optimized page.  Be sure to consider this time, possibly by 
 capping the number of inputs displayed, since the code itself is very processor intensive and appears to actually hang the 

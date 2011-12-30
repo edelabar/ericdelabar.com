@@ -9,7 +9,7 @@ category: relevant
 ---
 # Coding Your Fingers Off - Hand Tools, Power Tools, and Programmers
 
-<img src="/archives/content/images/saw.gif" alt="saw.gif" border="0" width="200" height="177" style="margin-top: 0;">
+<img src="/img/content/saw.gif" alt="saw.gif" border="0" width="200" height="177" style="margin-top: 0;">
 I have read quite a few posts recently on the 
 [lack of quality programmers](http://mamchenkov.net/wordpress/2008/06/04/where-did-all-the-php-programmers-go/), 
 web or otherwise, available in the current market.  I've even written a post myself on some of the 
@@ -34,7 +34,7 @@ completed assignments from that shell.  We loved that shell, whether we wanted t
 
 We did not have an <abbr title="integrated development environment">IDE</abbr>, 
 not in today's sense anyway; there was no code complete, re-factoring tools, or visual 
-<abbr title="software configuration management">SCM</abbr> merging tools.  
+<abbr title="software configuration management">SCM</abbr> merging tools. 
 In the process we learned Unix, we learned how to [grep](http://www.gnu.org/software/grep/), 
 how to use [sed](http://www.gnu.org/software/sed/) and 
 [awk](http://www.gnu.org/software/gawk/), 
@@ -48,7 +48,7 @@ all fit together.
 As a matter of illustration, I'm reminded of the [Home Improvement](http://en.wikipedia.org/wiki/Home_Improvement) 
 television show that was on when I was a kid.  In it, [Tim Allen](http://en.wikipedia.org/wiki/Tim_Allen) plays 
 [Tim Taylor](http://en.wikipedia.org/wiki/Tim_Taylor_%28character%29), the host of a cable 
-TV tool show called [Tool Time](http://en.wikipedia.org/wiki/Tool_Time).  
+TV tool show called [Tool Time](http://en.wikipedia.org/wiki/Tool_Time). 
 He has an assistant, [Al Borland](http://en.wikipedia.org/wiki/Al_Borland), played by 
 [Richard Karn](http://en.wikipedia.org/wiki/Richard_Karn).  On the show, Tim's motto is "more power," 
 which usually leads him to the biggest [Binford Tools](http://en.wikipedia.org/wiki/Binford_Tools) power tools, 
@@ -58,7 +58,7 @@ Al never ended up in the emergency room.  Which character would you hire to work
 
 But I digress, we're seeing more and more computer science grads who have worked only on Windows.  They've used 
 [Eclipse](http://www.eclipse.org/) and 
-[Visual Studio](http://msdn.microsoft.com/en-us/vstudio/products/default.aspx).  
+[Visual Studio](http://msdn.microsoft.com/en-us/vstudio/products/default.aspx). 
 They know how to use the very basic IDE functionality with the mouse and they live and die by 
 <kbd>ctrl+c</kbd> and <kbd>ctrl+v</kbd>.  They were given power tools in the very beginning of their careers and 
 now quite a few of them have figuratively managed to cut their fingers off.  They're crippled programmers because 

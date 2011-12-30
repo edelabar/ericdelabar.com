@@ -19,15 +19,17 @@ module Jekyll
         @lang = lang
       end
       
-      host = 'gist.github.com'
-      path = "/raw/#{@gist}/#{@file}"
+      host = 'raw.github.com'
+      path = "/gist/#{@gist}/#{@file}"
 
       http = Net::HTTP.new(host, 443)
       http.use_ssl = true
       headers, body = http.get(path)
       if headers.code == "200" 
-        @code = body                         
-      end
+        @code = body 
+      else
+        $stderr.puts "Failed to retreive gist, check the gist URL"
+      end  
       
     end
     

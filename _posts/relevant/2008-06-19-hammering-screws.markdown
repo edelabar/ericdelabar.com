@@ -9,7 +9,7 @@ category: relevant
 ---
 # Hammering Screws: Programmers and Tool Blindness
 
-[<img src="/archives/content/images/screws.jpg" alt="screws.jpg" border="0" width="200" height="150" style="margin-top: 0;">](http://www.flickr.com/photos/didmyself/2368738599/)
+[<img src="/img/content/screws.jpg" alt="screws.jpg" border="0" width="200" height="150" style="margin-top: 0;">](http://www.flickr.com/photos/didmyself/2368738599/)
 [In my last post](/2008/06/coding-your-fingers-off.html) I told a half-truth by ending with 
 <q>If you need me I'll be uninstalling Eclipse.</q>  Honestly, I only removed it from my laptop because 
 I rarely do any real Java development directly on my laptop, and should I need a quick code editor I have 
@@ -45,11 +45,10 @@ and Textmate-and-a-shell are not "[free as in beer](http://c2.com/cgi/wiki?FreeA
 
 As I mentioned in the comments of my [last post](/2008/06/coding-your-fingers-off.html), Eclipse 
 has been feeling a little more like [this tool](http://forums.mtbr.com/showthread.php?t=338564) 
-than [this one](http://www.wengerna.com/browse/product.jsp?prod_id=20&amp;cat_id=1&amp;cat_name=Knives&amp;sub_cat_id=18).  
+than [this one](http://www.wengerna.com/browse/product.jsp?prod_id=20&amp;cat_id=1&amp;cat_name=Knives&amp;sub_cat_id=18). 
 So maybe it's time to ask which tool you really want on your tool belt.
 
-In an interesting turn of events, Alex Vazquez over at [Wufoo](http://wufoo.com/)/
-[Particletree](http://particletree.com/) is going through the same process with a different perspective. 
+In an interesting turn of events, Alex Vazquez over at [Wufoo](http://wufoo.com/)/[Particletree](http://particletree.com/) is going through the same process with a different perspective. 
 Alex is moving, based in part by recommendation and in part by language choice, from Java on Eclipse to PHP 
 on Textmate, and he seems to be liking it so far.  Alex does, however, sum up Eclipse rather nicely, and 
 coincidentally within my theme:

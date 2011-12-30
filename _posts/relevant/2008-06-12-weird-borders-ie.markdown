@@ -24,11 +24,11 @@ Basically, it's a two column layout with the columns wrapped in a `div` that has
 requirement for the layout.)  The desired rendering of this markup should look something like the following: 
 (Note: the black/brown box is the background image.)
 
-<img src="images/ie-correct.gif" alt="ie_correct.gif" border="0" width="427" height="327" style="float: none;">
+<img src="/img/content/ie-correct.gif" alt="ie_correct.gif" border="0" width="427" height="327" style="float: none;">
 
 But in IE, we get this:
 
-<img src="images/ie-bug.gif" alt="ie_bug.gif" border="0" width="427" height="327" style="float: none;">
+<img src="/img/content/ie-bug.gif" alt="ie_bug.gif" border="0" width="427" height="327" style="float: none;">
 
 If you don't trust my images, please [try for yourself](/examples/weird-borders-ie7/index.php).
 
