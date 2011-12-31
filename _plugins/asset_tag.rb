@@ -5,7 +5,7 @@ class AssetTag < Liquid::Tag
   def initialize(tag_name, name, kind, tokens)
     super tag_name, name, tokens
     @name   = name.to_s.strip
-    @version = (ENV["VERSION_#{@name}"] || Time.now.strftime("%Y%m%d%H%M%S"))
+    @version = (Jekyll::VERSIONS[@name] || Time.now.strftime("%Y%m%d%H%M%S"))
     @kind   = kind.to_s
   end
 
