@@ -30,7 +30,7 @@ Easy is something that Google has down pat, you can't get much easier than a sin
 where it gets interesting.  In order to remain accurate Google needs to be unmanipulatable.  Their algorithm needs 
 to return the most relevant and authoritative content possible, and that means excluding spam.  If you're not 
 publishing the most relevant and useful content out there you don't deserve to be listed, let alone rank on the 
-first&nbsp;page.
+first page.
 
 For better or for worse, the bulk of SEO exists to manipulate the search engines, and 
 if you think otherwise you're seriously deluding yourself.  Don't get me wrong, I believe SEO 

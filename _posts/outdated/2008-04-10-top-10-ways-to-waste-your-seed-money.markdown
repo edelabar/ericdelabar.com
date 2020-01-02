@@ -66,7 +66,7 @@ going badly?  Investors take wooing, possibly traveling, these things cost money
 elsewhere first and don't waste your resources.
 8. **Use buzzwords**  
 Buzzwords are expensive.  If you're not a developer and you walk into a software shop and start throwing around 
-[AJAX</acronym>](http://en.wikipedia.org/wiki/Ajax_%28programming%29"><acronym title="Asynchronous Java And XML) 
+[AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29"><acronym title="Asynchronous Java And XML) 
 and Web 2.0 you're bill is going to go up.  Let the shop tell you when AJAX is appropriate, let the shop define Web 2.0, 
 because it's not just animations and shiny buttons.  You won't impress anyone with how well you can use buzzwords in a 
 sentence you'll impress people with how well (and appropriately) you use the underlying technologies in your application. 

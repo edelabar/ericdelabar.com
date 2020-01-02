@@ -21,9 +21,10 @@ to kick up the [progressive enhancement](http://en.wikipedia.org/wiki/Progressiv
 make LightWindow even better!
 
 Let's start with a client who wants to use a lightbox to display a multi-view image viewer for an e-commerce site. 
-In true progressive enhancement fashion, if JavaScript is disabled, *the user should still be able to perform the basic functionality of the site*.  So, let's assume our site has a simple layout with a header, a footer, and a 
-main content area that [looks something like this](http://www.ericdelabar.com/examples/progressive-enhancement-lightwindow/). 
-When JavaScript is disabled the image viewer should show up with the header and footer, when it's enabled, it should 
+In true progressive enhancement fashion, if JavaScript is disabled, *the user should still be able to perform the basic functionality of the site*.  
+So, let's assume our site has a simple layout with a header, a footer, and a main content area that 
+[looks something like this](http://www.ericdelabar.com/examples/progressive-enhancement-lightwindow/). When JavaScript 
+is disabled the image viewer should show up with the header and footer, when it's enabled, it should 
 show up in a lightbox without the header and footer.  So how do we do it?
 
 LightWindow can be used to display any given webpage by simply setting the class of a link to that webpage to 

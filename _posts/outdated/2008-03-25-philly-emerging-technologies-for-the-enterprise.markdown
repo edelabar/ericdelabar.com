@@ -33,16 +33,16 @@ following sessions:
 ## March 27th
 
 * 10:15 to 11:15 -- [Applying the Semantic Web Technology to Patient Clinical Data in an Agile Project](http://www.phillyemergingtech.com/abstracts.php#kern1) by 
-[Jon Kern](http://www.phillyemergingtech.com/speakers.php#kern)</li>
+[Jon Kern](http://www.phillyemergingtech.com/speakers.php#kern)
 * 11:30 to 12:30 -- [WS-* vs. REST: Myths, Facts and Lies](http://www.phillyemergingtech.com/abstracts.php#freemantle2) by 
-[Paul Freemantle](http://www.phillyemergingtech.com/speakers.php#freemantle)</li>
+[Paul Freemantle](http://www.phillyemergingtech.com/speakers.php#freemantle)
 * 1:30 to 2:30 -- [Designing RESTful Rails Applications](http://www.phillyemergingtech.com/abstracts.php#fernandez) by 
-[Obie Fernandez](http://www.phillyemergingtech.com/speakers.php#fernandez)</li>
+[Obie Fernandez](http://www.phillyemergingtech.com/speakers.php#fernandez)
 * 2:45 to 3:45 -- [Hibernate Search: Googling Your Domain Model](http://www.phillyemergingtech.com/abstracts.php#bernard) by 
-[Emmanuel Bernard](http://www.phillyemergingtech.com/speakers.php#bernard)</li>
+[Emmanuel Bernard](http://www.phillyemergingtech.com/speakers.php#bernard)
 * 4:00 to 5:00 -- [Introduction to Agile for Traditional PMI Project Managers](http://www.phillyemergingtech.com/abstracts.php#broderick) by 
-[Stacia Broderick](http://www.phillyemergingtech.com/speakers.php#broderick)</li>
+[Stacia Broderick](http://www.phillyemergingtech.com/speakers.php#broderick)
 * 5:15 to 6:15 -- [Grails - Agile Web 2.0 The Easy Way](http://www.phillyemergingtech.com/abstracts.php#brown) by 
-[Jeff Brown](http://www.phillyemergingtech.com/speakers.php#brown)</li>
+[Jeff Brown](http://www.phillyemergingtech.com/speakers.php#brown)
 
 Assuming the wireless is working I'll probably be blogging and/or twittering from the conference so stay tuned for my thoughts!
