@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Google Giveth and Google Taketh Away by Eric DeLabar
+title: Google Giveth and Google Taketh Away
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, seo, soap box, thoughts]
 ---
-# Google Giveth and Google Taketh Away
-
 [Michael Martinez over at SEO Theory](http://seo-theory.com/wordpress/) recently 
 posted an interesting article on 
 [contract law, terms of service, and how they apply to the web](http://seo-theory.com/wordpress/2008/06/01/contract-law-and-the-web-how-enforceable-are-webmaster-guidelines/). It's 

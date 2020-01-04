@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Manning eBooks by Eric DeLabar
+title: Manning eBooks
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, conferences, groovy, reviews]
 ---
-# Manning eBooks
-
 Last week at the [Emerging Tech Conference](http://www.phillyemergingtech.com/) I dropped my card in the 
 fishbowl at the [Manning Publications](http://www.manning.com/) table to win a free eBook.  Turns out 
 I actually won!  This morning in my e-mail I found a free eBook copy of Groovy in Action.  I haven't read any of 

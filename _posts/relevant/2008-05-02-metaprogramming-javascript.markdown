@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Duck Punching JavaScript - Metaprogramming with Prototype by Eric DeLabar
+title: Duck Punching JavaScript - Metaprogramming with Prototype
 metadesc: 
 class: post
 changefreq: never
-priority: 0.9
-category: relevant
+priority: 1.0
+categories: [javascript]
 ---
-# Duck Punching JavaScript - Metaprogramming with Prototype
-
 First, let me explain the title for those of you who live in Java world.  The term Duck Punch comes from 
 Ruby programmers and refers to the concept of [duck typing](http://en.wikipedia.org/wiki/Duck_typing) 
 used by Ruby and other languages; <q>if it walks like a duck and quacks like a duck, I would call it a duck.</q> 

@@ -1,0 +1,15 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="google-site-verification" content="V4oUDmhrkorBfDHmisJiwGWzWv2b3hm6qAcUjtXFMac" />
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for EricDeLabar.com" href="http://ericdelabar.com/feed/index.xml" />
+    <link rel="alternate" type="application/atom+xml" title="ATOM Feed for EricDeLabar.com" href="http://ericdelabar.com/feed/atom.xml" />
+
+    {% include_scss main %}
+
+    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+</head>

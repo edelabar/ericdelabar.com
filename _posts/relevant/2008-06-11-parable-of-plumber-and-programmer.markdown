@@ -1,14 +1,12 @@
 ---
 layout: post
-title: The Parable of the Plumber and the Programmer by Eric DeLabar
+title: The Parable of the Plumber and the Programmer
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, soap box, thoughts, view from the trenches]
 ---
-# The Parable of the Plumber and the Programmer
-
 One day a small business owner, known to dabble in the do-it-yourself arts, was reading the visitor 
 statistics from the website that his nephew had made him. Disappointed by the long page loads, 
 low traffic, and cross-browser inconsistencies, the small business owner went to his kitchen for a 

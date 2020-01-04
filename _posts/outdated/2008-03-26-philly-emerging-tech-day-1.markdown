@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Philly Emerging Tech Day 1 by Eric DeLabar
+title: Philly Emerging Tech Day 1
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, conferences]
 ---
-# Philly Emerging Tech Day 1
-
 Day one of the conference was pretty interesting, definitely better in the morning that the afternoon, 
 but at least lunch was good!  The Keynote was interesting, by [Lucinda Holt](http://www.cerealceo.com/) 
 from [Commerce360](http://www.commerce360.com/), an impressive look at being in the right place 

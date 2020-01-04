@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Thoughts on Aggregation by Eric DeLabar
+title: Thoughts on Aggregation
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging]
 ---
-# Thoughts on Aggregation
-
 I don't remember how I came across the concept, but recently I discovered the [tumblog](http://en.wikipedia.org/wiki/Tumblog), 
 and I was intrigued by the concept.  There are plenty of services will host a tumblog for you, with 
 [Tumblr](http://www.tumblr.com/) being the most notable in my mind, but none of them provide the aggregation and 

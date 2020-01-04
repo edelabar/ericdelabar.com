@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Philly Emerging Tech Day 2 by Eric DeLabar
+title: Philly Emerging Tech Day 2
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, conferences]
 ---
-# Philly Emerging Tech Day 2
-
 Loved the keynote this morning by [Floyd Marinescu](http://www.floydmarinescu.com/) the 
 CEO of [InfoQ](http://www.infoq.com/), it probably would have 
 been better yesterday because it introduced a lot of the technologies being covered in the individual 

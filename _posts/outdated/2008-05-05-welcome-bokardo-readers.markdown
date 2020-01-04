@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Welcome Bokardo Readers by Eric DeLabar
+title: Welcome Bokardo Readers
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, Elsewhere, OpenId, blogging, identity, site news, social media]
 ---
-# Welcome Bokardo Readers!
-
 If you're here because of Josh Porter's posts on [social network](http://bokardo.com/archives/the-power-of-niche-social-network-sites/ "The Power of Niche Social Sites at Bokardo.com") 
 and [social niche](http://bokardo.com/archives/bootstrapping-a-niche-social-network/ "Bootstrapping a Niche Social Site at Bokardo.com") 
 sites on his blog [Bokardo](http://bokardo.com/), you might find these posts interesting:

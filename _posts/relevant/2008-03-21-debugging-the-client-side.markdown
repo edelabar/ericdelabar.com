@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Debugging the Client Side by Eric DeLabar
+title: Debugging the Client Side
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, css, standards, tools, web 2.0]
 ---
-# Debugging the Client Side
-
 By my definition of [Web 2.0](/2008/02/web-20-religion-politics), one of the key requirements for any 
 application is cross-browser compatibility.  As a company, my employer defines this as IE 
 6+, Firefox 2+, and Safari 3 beta; all tested on Windows.  It's not ideal, but it covers a huge chunk of the market. 

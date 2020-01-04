@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Fixing the SERPs When Changing Permalink Structure in WordPress by Eric DeLabar
+title: Fixing the SERPs When Changing Permalink Structure in WordPress
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, WordPress, seo]
 ---
-# Fixing the SERPs When Changing Permalink Structure in WordPress
-
 As of today, if you run a Google search to see what pages of my site are in the index you'll find 
 quite a bit.  However, the pages in the index reflect a URL structure that 
 I'm not thrilled with for <acronym title="Search Engine Optimization">SEO</acronym> 

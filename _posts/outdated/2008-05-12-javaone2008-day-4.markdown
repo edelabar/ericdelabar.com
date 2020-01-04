@@ -1,14 +1,12 @@
 ---
 layout: post
-title: JavaOne 2008 &ndash; Day 4 by Eric DeLabar
+title: JavaOne 2008 &ndash; Day 4
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, JavaOne2008, conferences, java]
 ---
-# JavaOne 2008 &ndash; Day 4
-
 Day four at JavaOne was a bit of a blur due to it's smaller population and shorter duration. 
 Add that to the fact that I caught a red-eye back home and didn't sleep all day on Saturday, 
 and Friday and Saturday became one large day.  But I digress.

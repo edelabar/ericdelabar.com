@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Found Code: Optimizing Large Form Performance in JavaScript by Eric DeLabar"
+title: "Found Code: Optimizing Large Form Performance in JavaScript"
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, found code, javascript, performance, programming, web 2.0]
 ---
-# Found Code: Optimizing Large Form Performance in JavaScript
-
 As I've covered before, [ill-used JavaScript can lead to some serious performance problems](/2008/04/javascript-getelementbyid-performance.html), 
 most of which are caused by simply not thinking about what the code is really doing.  Recently I came across a 
 site that provided digital photo printing,  This site had a nice interface that allowed my to upload close to 

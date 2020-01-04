@@ -1,14 +1,12 @@
 ---
 layout: post
-title: No Deadlines == No Work. QED by Eric DeLabar
+title: No Deadlines == No Work. QED
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, site design, site news]
 ---
-# No Deadlines == No Work. QED
-
 Ok, I've been blogging for two weeks now, I think I may have the habit for it.  I say this because 
 if I don't have a post done by my second cup of coffee I start twitching uncontrollably.  Yeah. 
 Seriously though, I'm a procrastinator, if I don't have a deadline I will simple put things off 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Programming In Pants by Eric DeLabar
+title: Programming In Pants
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, programming, soap box, thoughts]
 ---
-# Programming In Pants
-
 This topic has been bouncing around my head for a while, but 
 [an article I stumbled across on Digg](http://itmanagement.earthweb.com/career/article.php/3749841) 
 brought it to the front.  In this article the author states:

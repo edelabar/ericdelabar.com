@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Let's talk about tools &ndash; Part 1 by Eric DeLabar
+title: Let's talk about tools &ndash; Part 1
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, firefox extensions, tools]
 ---
-# Let's talk about tools &ndash; Part 1
-
 After my [last post](http://blog.ericdelabar.com/2007/02/in-beginning-there-was-doctype.html "In the beginning there was DOCTYPE"), 
 we have a nice, clean starting point for our website.  Which is great, but in order to take it to the next level, 
 we should probably get a nice development environment up and running.

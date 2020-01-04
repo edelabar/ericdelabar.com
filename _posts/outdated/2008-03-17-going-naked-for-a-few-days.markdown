@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Going Naked for a Few Days by Eric DeLabar
+title: Going Naked for a Few Days
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, site design]
 ---
-# Going Naked for a Few Days
-
 In case you're wondering, this site has no styles applied to it.  I've done this so that I can craft the XHTML 
 and WordPress theme to perfection.  After I'm happy with the markup, I'll begin making it pretty.  I swear, 
 I'm really going to do it this time.  Changes are coming down the pipe, including the start of a few new projects 

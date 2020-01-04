@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Coding Your Fingers Off - Hand Tools, Power Tools, and Programmers by Eric DeLabar
+title: Coding Your Fingers Off - Hand Tools, Power Tools, and Programmers
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, code, programming, soap box, thoughts]
 ---
-# Coding Your Fingers Off - Hand Tools, Power Tools, and Programmers
-
 <img src="/img/content/saw.gif" alt="saw.gif" border="0" width="200" height="177" style="margin-top: 0;">
 I have read quite a few posts recently on the 
 [lack of quality programmers](http://mamchenkov.net/wordpress/2008/06/04/where-did-all-the-php-programmers-go/), 

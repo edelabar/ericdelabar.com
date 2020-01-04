@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Content vs. Presentation: Just How Deep Are The Social Networks? by Eric DeLabar"
+title: "Content vs. Presentation: Just How Deep Are The Social Networks?"
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, site design, social media]
 ---
-# Content vs. Presentation: Just How Deep Are The Social Networks?
-
 Without any <acronym title="cascading style sheets">CSS</acronym> or fancy design, 
 this site is pretty ugly.  As the current ugly kid on the block I cry myself to sleep every night and my 
 wife consoles me by saying that it's what's on inside that counts.  <q>Google likes your content, just 

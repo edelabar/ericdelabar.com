@@ -1,7 +1,9 @@
 ---
-layout: home
-title: EricDeLabar.com Site Map
+layout: page
+title: Site Map
 metadesc: Index of all pages on EricDeLabar.com
 class: sitemap
+changefreq: weekly
+priority: 0.3
 ---
-# Projects & Code
+{% render_sitemap sitemap\.html %}

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: The Web Framework Battle Royale by Eric DeLabar
+title: The Web Framework Battle Royale
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, conferences, web 2.0]
 ---
-# The Web Framework Battle Royale
-
 As you have probably guessed from the subtitle of this blog, I'm a Java guy at heart, in most cases I 
 live and breathe [Spring](http://www.springframework.org/).  This doesn't mean my eyes 
 aren't open to the fact that there are other web frameworks out there, in fact I've done my share of 

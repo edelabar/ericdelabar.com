@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Letting Google Help With Your Site Performance by Eric DeLabar
+title: Letting Google Help With Your Site Performance
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, javascript, performance, progressive enhancement, tools, web 2.0]
 ---
-# Letting Google Help With Your Site Performance
-
 Let's face it, cross-browser JavaScript and AJAX without a helper library or 
 framework is pretty difficult.  However, these libraries can be pretty hefty when it comes to page download 
 size, especially if sent uncompressed and un-optimized.  Most of the libraries have a statement in their 

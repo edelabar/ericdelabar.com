@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Best Laid Plans by Eric DeLabar
+title: Best Laid Plans
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, seo]
 ---
-# Best Laid Plans
-
 I tried.  I even had a rough draft; but when I went to try out my concept it didn't work.  My article on Friday 
 was supposed to be on 301 redirecting from the old [WordPress](http://wordpress.org/) URL structure to a new URL 
 structure, but after doing my research, I'm not sure it's even possible.  My guess is mod_redirect ignores URL 

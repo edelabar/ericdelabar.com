@@ -1,14 +1,12 @@
 ---
 layout: post
-title: JavaOne 2008 &ndash; Day 2 by Eric DeLabar
+title: JavaOne 2008 &ndash; Day 2
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, JavaOne2008, conferences, design, groovy, java]
 ---
-# JavaOne 2008 &ndash; Day 2
-
 The general session this morning was not quite the same as yesterday morning's, which I suppose 
 is understandable, but it was still pretty informative.  Today Oracle showed off its developer 
 tools, which are interesting, but being mainly JSF, not very appealing 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: In the beginning there was DOCTYPE by Eric DeLabar
+title: In the beginning there was DOCTYPE
 metadesc: 
 class: post
 changefreq: never
-priority: 0.9
-category: relevant
+priority: 0.8
+categories: [relevant, seo, standards, web 2.0]
 ---
-# In the beginning there was DOCTYPE
-
 Alright, in the beginning there wasn't [DOCTYPE](http://en.wikipedia.org/wiki/Document_Type_Declaration), it didn't come along 
 until about the time <acronym title="eXtensible HyperText Markup Language">XHTML</acronym> was released; however, if you want to do 
 the Web 2.0 thing right, it helps to start on a solid base.

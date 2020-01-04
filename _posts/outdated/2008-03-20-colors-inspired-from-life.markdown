@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Colors, Inspired from Life by Eric DeLabar
+title: Colors, Inspired from Life
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, site design]
 ---
-# Colors, Inspired from Life
-
 Yesterday I listed quite a few sites from which I picked a few aspects of design that I liked.  I was looking more 
 towards the layout and feel than the color but I did note a few palettes that I liked.  Yesterday evening I was 
 shopping in my local Old Navy and I noticed the colors being used in the decorations for the men's side of the store. 

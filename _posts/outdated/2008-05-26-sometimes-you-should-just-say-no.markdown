@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sometimes You Should Just Say No by Eric DeLabar
+title: Sometimes You Should Just Say No
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, soap box, thoughts, view from the trenches]
 ---
-# Sometimes You Should Just Say No!
-
 Every time I read a new post on [Andy Rutledge's blog Design View](http://www.andyrutledge.com/) I feel 
 the need to comment.  Andy has made the decision to not allow comments on his site so instead I'll comment here. 
 The latest article on Design View is about [Pre-Bid Discussions](http://www.andyrutledge.com/pre-bid-discussions.php), 

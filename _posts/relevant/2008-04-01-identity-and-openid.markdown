@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Identity and OpenId by Eric DeLabar
+title: Identity and OpenId
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, OpenId, blogging, web 2.0]
 ---
-# Identity and OpenId
-
 It all started last week when I read 
 [an article on Vitamin about the launch of ClickPass at SxSW](http://www.thinkvitamin.com/features/webapps/the-thrill-of-launch). 
 I'd noticed [OpenID](http://en.wikipedia.org/wiki/OpenID) before, mainly on the 

@@ -1,0 +1,13 @@
+---
+layout: page
+changefreq: weekly
+priority: 0.5
+---
+<div class="monthly-archive">
+	<ul>
+	  {% for post in page.posts %}
+	    <li><a href="{{ post.url }}"><span>{{ post.title }}</span></a>
+	    <p class="post-date">{{ post.date | date_to_html_string }}</p></li>
+	  {% endfor %}
+	</ul>
+</div>

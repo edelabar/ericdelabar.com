@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Found Code: JavaScript getElementById, Performance, and the $ Function by Eric DeLabar"
+title: "Found Code: JavaScript getElementById, Performance, and the $ Function"
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, found code, javascript, performance, web 2.0]
 ---
-# Found Code: JavaScript getElementById, Performance, and the $ Function
-
 From what I've seen, most of the popular JavaScript frameworks out there provide some form of the `$` 
 method.  This method is usually a cross-browser translation of `document.getElementById` with a few 
 extras.  What this means is instead of always having to type `document.getElementById("myId")` you 

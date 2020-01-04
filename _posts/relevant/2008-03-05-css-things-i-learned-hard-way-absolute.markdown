@@ -1,14 +1,12 @@
 ---
 layout: post
-title: CSS Things I Learned The Hard Way &ndash; Absolute Positioning by Eric DeLabar
+title: CSS Things I Learned The Hard Way &ndash; Absolute Positioning
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, css, standards, the hard way]
 ---
-# CSS Things I Learned The Hard Way &ndash; Absolute Positioning
-
 While there's no substitute for learning something by first making all of the mistakes, 
 it doesn't hurt to learn from somebody else's. In today's issue, we're going to talk 
 about absolute positioning.

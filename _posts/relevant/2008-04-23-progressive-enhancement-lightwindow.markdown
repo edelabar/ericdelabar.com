@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Progressive Enhancement and LightWindow by Eric DeLabar
+title: Progressive Enhancement and LightWindow
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, javascript, progressive enhancement, usability, web 2.0]
 ---
-# Progressive Enhancement and LightWindow
-
 Nothing says Web 2.0 like a lightbox, those nifty, little, modal dialogs that let you create pop-up-like functionality 
 without the worry of pop-up blockers.  There are quite a few variations of this concept, including 
 [Lightbox JS](http://www.huddletogether.com/projects/lightbox/) 

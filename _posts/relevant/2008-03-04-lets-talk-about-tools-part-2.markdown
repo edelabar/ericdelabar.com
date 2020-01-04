@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Let's talk about tools - Part 2 by Eric DeLabar
+title: Let's talk about tools - Part 2
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, eclipse, tools]
 ---
-# Let's talk about tools - Part 2
-
 Continuing our [thread on tools](/2008/02/lets-talk-about-tools-part-1.html" title="Let's talk about tools — Part 1), 
 we're now going to have a look at setting up a simple test server environment.
 

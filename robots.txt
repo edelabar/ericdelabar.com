@@ -1,1 +1,6 @@
 User-agent: *
+Disallow: /search
+Disallow: /search/*
+Disallow: /page
+Disallow: /page/*
+Disallow: /projects/index.html

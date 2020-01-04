@@ -1,14 +1,12 @@
 ---
 layout: post
-title: More On Identity by Eric DeLabar
+title: More On Identity
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, Blogs of Note, identity, microformats, site news]
 ---
-# More On Identity
-
 First things first, three new entries to the Blogroll: [Bokardo](http://bokardo.com/), 
 [Like It Matters](http://www.brianoberkirch.com/), and 
 [Own Your Identity](http://www.ownyouridentity.com/).  I've been a long-time 

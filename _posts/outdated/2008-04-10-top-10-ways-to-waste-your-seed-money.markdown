@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Bankruptcy or Bust: the Top 10 Ways to Waste Your Seed Money by Eric DeLabar"
+title: "Bankruptcy or Bust: the Top 10 Ways to Waste Your Seed Money"
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, startups, view from the trenches, web applications]
 ---
-# Bankruptcy or Bust: the Top 10 Ways to Waste Your Seed Money
-
 Let's pretend, be it from <acronym title="venture capitalist">[VC's](http://en.wikipedia.org/wiki/Venture_capital)</acronym>, 
 [angels](http://en.wikipedia.org/wiki/Angel_investor), or remortgaging your house, you've come into some 
 investment capital and are looking to build a web application. Here are my top 10 ways to spend every penny of 

@@ -1,6 +1,41 @@
-pygments: true
+# Site settings
+title: "EricDeLabar.com - Objective-C, Swift, and iOS Development"
+description: "Personal and professional presence for iOS and Mobile Developer Eric DeLabar. Objective-C and Swift development with a UI/UX twist."
+baseurl: ""
+url: "http://ericdelabar.com"
+twitter_username: edelabar
+github_username:  edelabar
+githubUser:  edelabar
+
+#configure sass
+sass:
+    style: :compressed
+
+#pagination
+paginate: 10
+paginate_path: page/:num
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
 permalink: /:year/:month/:title.html
-auto: true
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+include: [.htaccess]
+timezone: America/New_York
+
+#paypal settings
+donate_text: "Throw $5 in the Tip Jar."
+donate_id: "RESRCTYHJ9B96"
+
+#sitemap settings
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/feed/index.xml"
+        - "/feed/atom.xml"
+    include_posts:
+        - archives.markdown
+    change_frequency_name: "changefreq"
+    priority_name: "priority"
+
+# generate_categories
+category_dir: 'category'

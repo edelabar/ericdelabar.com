@@ -1,14 +1,12 @@
 ---
 layout: post
-title: A Style by Any Other Name by Eric DeLabar
+title: A Style by Any Other Name
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging]
 ---
-# A Style by Any Other Name
-
 Ah, creativity.  As always, I'm in search of a [muse](http://en.wikipedia.org/wiki/Muse).  Now I have a rather plain looking 
 website just begging for some style.  I'm moderately happy with the markup, and I feel comfortable enough with 
 [WordPress](http://www.wordpress.org/)' theming capabilities that I'm ready start making this site look like something. 

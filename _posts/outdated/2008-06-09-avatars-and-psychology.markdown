@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Psychology, Avatars, and My High School Yearbook by Eric DeLabar
+title: Psychology, Avatars, and My High School Yearbook
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, identity, thoughts]
 ---
-# Psychology, Avatars, and My High School Yearbook
-
 At one point in high school I went to a workshop on making a great yearbook.  It was interesting, 
 got me out of a day of school, and really helped with the two pages of the book I actually got to 
 work on.  Besides that, I took out of it a few facts about portrait composition, mainly that 

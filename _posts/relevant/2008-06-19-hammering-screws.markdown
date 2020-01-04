@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Hammering Screws: Programmers and Tool Blindness by Eric DeLabar"
+title: "Hammering Screws: Programmers and Tool Blindness"
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, code, programming, soap box, thoughts, tools]
 ---
-# Hammering Screws: Programmers and Tool Blindness
-
 [<img src="/img/content/screws.jpg" alt="screws.jpg" border="0" width="200" height="150" style="margin-top: 0;">](http://www.flickr.com/photos/didmyself/2368738599/)
 [In my last post](/2008/06/coding-your-fingers-off.html) I told a half-truth by ending with 
 <q>If you need me I'll be uninstalling Eclipse.</q>  Honestly, I only removed it from my laptop because 

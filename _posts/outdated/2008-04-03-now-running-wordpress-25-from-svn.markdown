@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Now running WordPress 2.5 from SVN by Eric DeLabar
+title: Now running WordPress 2.5 from SVN
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, OpenId, WordPress, site news]
 ---
-# Now running WordPress 2.5 from SVN
-
 Since I found out that [HappyCog](http://www.happycog.com/) 
 [redid the admin for WordPress 2.5](http://www.jasonsantamaria.com/archive/2008/03/31/wordpress_admin_redesign.php) 
 I've been interested to see what it looks like.  This morning I decided it was time.  I originally used the 

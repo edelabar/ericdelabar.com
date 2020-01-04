@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Gridding the Semantic Web by Eric DeLabar
+title: Gridding the Semantic Web
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, blogging, semantics, site design, standards]
 ---
-# Gridding the Semantic Web
-
 To continue the discussion on the design of this blog, I'm going to take a moment and step onto my 
 soapbox.  But first, a brief introduction to the topic at hand.
 

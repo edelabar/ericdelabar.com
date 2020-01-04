@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Why I'm Blogging by Eric DeLabar
+title: Why I'm Blogging
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, site news]
 ---
-# Why I'm Blogging
-
 I have three main reasons for blogging, in this order:
 
 1. I need my own personal soap box

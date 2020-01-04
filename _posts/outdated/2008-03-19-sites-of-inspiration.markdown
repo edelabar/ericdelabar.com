@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sites of Inspiration by Eric DeLabar
+title: Sites of Inspiration
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, site design]
 ---
-# Sites of Inspiration
-
 After an hour in the [Smashing Magazine](http://www.smashingmagazine.com/) archives, I've narrowed my inspiration down to 
 roughly 65 sites.  Yikes.  In general, I'm feeling a little more locked down for what I'm looking for, definate use of 
 textures and depth, slight grunge style, and a not-so-blog layout.  I'm thinking three columns for the home page, possibly 

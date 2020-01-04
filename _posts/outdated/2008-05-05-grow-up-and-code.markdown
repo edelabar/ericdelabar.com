@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Grow Up and Code by Eric DeLabar
+title: Grow Up and Code
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, JavaOne2008, groovy, java, programming, soap box, thoughts]
 ---
-# Grow Up and Code
-
 [Groovy](http://groovy.codehaus.org/), like 
 [Ruby](http://www.ruby-lang.org/en/), is one of those 
 <acronym title="Don't Repeat Yourself">DRY</acronym>, elegant, and 

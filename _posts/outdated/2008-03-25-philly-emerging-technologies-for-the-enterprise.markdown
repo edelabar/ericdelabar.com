@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Philly Emerging Technologies for the Enterprise by Eric DeLabar
+title: Philly Emerging Technologies for the Enterprise
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, conferences]
 ---
-# Philly Emerging Technologies for the Enterprise
-
 I won't be at the [TheServerSide Java Symposium](http://javasymposium.techtarget.com/) this year, 
 but I will be going to [JavaOne](http://java.sun.com/javaone/sf/).  To hold me off until then 
 I'm heading down to the [Philly Emerging Technologies for the Enterprise](http://www.phillyemergingtech.com/) 

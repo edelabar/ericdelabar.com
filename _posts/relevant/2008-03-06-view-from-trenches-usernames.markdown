@@ -1,14 +1,12 @@
 ---
 layout: post
-title: A View from the Trenches &ndash; Usernames by Eric DeLabar
+title: A View from the Trenches &ndash; Usernames
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, usability, user behavior, view from the trenches]
 ---
-# A View from the Trenches &ndash; Usernames
-
 I recently finished a "Members" section of a website for a local non-profit.  The primary user 
 base was small, (less than 100) so I didn't spend a lot of time on building a robust user 
 management system.  Basically, a user would access the site, request a login by entering a 

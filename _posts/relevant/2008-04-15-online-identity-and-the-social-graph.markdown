@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Online Identity and the Social Graph by Eric DeLabar
+title: Online Identity and the Social Graph
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, blogging, identity, microformats, thoughts]
 ---
-# Online Identity and the Social Graph
-
 If I'm ever going to be rich and famous people will need to know who I am.  *Removes tongue from cheek.* 
 If anyone knows who I am it should probably be Google.  How good is a web guru if they're not number one in 
 Google for their own name?  Seriously would you trust anything I had to say if you couldn't find me in Google? 

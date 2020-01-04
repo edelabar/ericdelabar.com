@@ -1,14 +1,12 @@
 ---
 layout: post
-title: JavaOne 2008 &ndash; Day 3 by Eric DeLabar
+title: JavaOne 2008 &ndash; Day 3
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, JavaOne2008, conferences, java]
 ---
-# JavaOne 2008 &ndash; Day 3
-
 Day two's keynote was from Intel, basically the same as AMD's evening 
 general session yesterday.  Blah, blah, blah, we improved JVM performance, 
 blah, blah, blah.

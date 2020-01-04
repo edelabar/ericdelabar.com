@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Jack of Even More Trades, Master of Even Less by Eric DeLabar
+title: Jack of Even More Trades, Master of Even Less
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, java, programming, soap box, thoughts, web 2.0]
 ---
-# Jack of Even More Trades, Master of Even Less?
-
 I've been at my current employer for over four years.  We do Java-based web application development.  Four short years ago, 
 this industry was a different world.  [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0) didn't exist. 
 [Ajax was a cleaning product](http://en.wikipedia.org/wiki/Ajax_%28cleanser%29).  A website that only worked in 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Matt Snider, You've Been Blogrolled by Eric DeLabar
+title: Matt Snider, You've Been Blogrolled
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, Blogs of Note, javascript, site news]
 ---
-# Matt Snider, You've Been Blogrolled
-
 I haven't said anything about it yet, but I love Google Reader.  Not only is it an amazing feed reader, 
 it has a neat little service where it recommends feeds to you based on your existing reading list. 
 Yesterday night it recommended [Matt Snider's blog](http://mattsnider.com/) to me.

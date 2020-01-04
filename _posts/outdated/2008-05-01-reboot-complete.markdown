@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Reboot Complete by Eric DeLabar
+title: Reboot Complete
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, blogging, site design]
 ---
-# Reboot Complete
-
 For those of you visiting to check out my changes for the [May 1st Reboot](http://www.may1reboot.com/2008/), 
 I'd like to welcome you and encourage you to subscribe to my [RSS feed](feed://www.ericdelabar.com/feed). 
 Sadly, I did not get my design totally finished thanks in part to life in general.  If you've seen my design before 

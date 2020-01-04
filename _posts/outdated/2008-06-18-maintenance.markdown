@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Maintenance by Eric DeLabar
+title: Maintenance
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated,site news]
 ---
-# Maintenance
-
 A quick welcome to everyone passing through via DZone!  Please subscribe, I'd love to have you back!
 
 If you're new here, please excuse the mess, it's still a work in progress since the content has been 

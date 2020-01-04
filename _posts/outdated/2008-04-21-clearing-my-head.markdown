@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Clearing My &lt;head&gt; by Eric DeLabar
+title: Clearing My &lt;head&gt;
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, WordPress, site design]
 ---
-# Clearing My `<head>`
-
 It always struck me as odd, but I originally had three types of feeds on this site, 
 [Atom](http://en.wikipedia.org/wiki/Atom_(standard)), 
 [RSS 0.93, and RSS 2](http://en.wikipedia.org/wiki/Rss), 

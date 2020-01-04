@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Working With Code by Eric DeLabar
+title: Working With Code
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, WordPress, blogging, html, semantics]
 ---
-# Working With Code
-
 Now that I have some content, and a nice habit of writing every day, I've started concentrating a 
 little more on how this blog looks, especially since the [May 1st reboot](http://www.may1reboot.com/2008/) 
 is only 8 days away!

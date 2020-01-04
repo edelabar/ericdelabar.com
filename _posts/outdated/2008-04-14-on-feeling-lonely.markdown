@@ -1,14 +1,12 @@
 ---
 layout: post
-title: On Feeling Lonely by Eric DeLabar
+title: On Feeling Lonely
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, WordPress, blogging, site news]
 ---
-# On Feeling Lonely
-
 My blogroll needs some love.  I'm looking for some quality blogs out there who are just starting up.  They 
 should be on a similar topic, somewhere close to SEO, 
 CSS, JavaScript, Web Standards, and/or Java Programming, but that's really 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Border Weirdness in Internet Explorer by Eric DeLabar
+title: Border Weirdness in Internet Explorer
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, bugs, css, html]
 ---
-# Border Weirdness in Internet Explorer
-
 While helping a friend rework his [Vintage Board Games](http://www.vintageboardgames.net/) site (rework not live yet), 
 we came across an interesting IE bug.  In a nutshell, in some cases, IE was placing a CSS background image relative to the outside 
 of an element's border instead of the inside.

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Following The Conversation Elsewhere by Eric DeLabar
+title: Following The Conversation Elsewhere
 metadesc: 
 class: post
 changefreq: never
 priority: 0.9
-category: relevant
+categories: [relevant, WordPress, blogging, identity, thoughts]
 ---
-# Following The Conversation Elsewhere
-
 A few days ago [I commented on this post over at Publishing 2.0](http://publishing2.com/2008/04/12/forget-disintermediation-focus-on-open-data-exchange/#comment-403019), 
 ignoring the semantic debate of whether the article described intermediation or disintermediation, I came up with 
 an idea that I personally find very interesting.  I touched on this idea on 

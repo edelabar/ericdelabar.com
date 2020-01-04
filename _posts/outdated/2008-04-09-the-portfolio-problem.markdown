@@ -1,14 +1,12 @@
 ---
 layout: post
-title: The Portfolio Problem by Eric DeLabar
+title: The Portfolio Problem
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, career, thoughts]
 ---
-# The Portfolio Problem
-
 Let me start out by saying I love my job, as far as I know my employer is in great standings and will be in business 
 for years to come, and as of this moment, I'm not **actively** looking for a new job.  With that being 
 said, if an [offer](http://www.google.com/support/jobs/bin/answer.py?answer=23690)-

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: JavaOne 2008 &ndash; Day 1 by Eric DeLabar
+title: JavaOne 2008 &ndash; Day 1
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, JavaOne2008, conferences, java]
 ---
-# JavaOne 2008 &ndash; Day 1
-
 In case any of you missed my [tweet](http://twitter.com/edelabar/statuses/805133233), 
 I learned so much today that it actually took me a good twenty minutes to remember what my first 
 session was about!

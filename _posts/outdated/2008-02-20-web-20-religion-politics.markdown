@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Web 2.0 &ndash; Religion &amp; Politics by Eric DeLabar
+title: Web 2.0 &ndash; Religion &amp; Politics
 metadesc: 
 class: post disclaimer
 changefreq: never
 priority: 0.4
-category: outdated
+categories: [outdated, web 2.0]
 ---
-# Web 2.0 &ndash; Religion &amp; Politics
-
 First, a separation of church and state. I did not coin the term Web 2.0, and I have no particular feelings 
 towards it (either for or against.) What I do feel is that the **idea** of Web 2.0 has put a few very important 
 issues onto the map.
